@@ -1,4 +1,3 @@
-
 proc sql;
    create table paylist
        (IdNum char(4),
