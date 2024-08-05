@@ -1,15 +1,16 @@
 data car;
     input brand $ price;
     datalines;
+Woto 3.987654
 Proton 49.987654
 Produa 29.987654 
-Audi 250.987654
-Mercedes 350.987654
+Audi 250999.987654
+Mercedes 350999.2
 Toyota 89.987654
 Volkswagen 109.987654
 Honda 99.987654
-BMW 409.987654
-Lotus 799.987654
+BMW 409000.9
+Lotus 799000.987654
 ;
 run;
 
@@ -36,7 +37,7 @@ data newCar1;
 run;
 
 proc print data=newCar1;
-	title 'New Car Data (Try 1: Numeric informat 8.2)';
+	title 'New Car Data (Try 1: Numeric format 8.2)';
 run;
 
 
@@ -47,5 +48,27 @@ data newCar2;
 run;
 
 proc print data=newCar2;
-	title 'New Car Data (Try 2: Numeric informat 4.2)';
+	title 'New Car Data (Try 2: Numeric simple format 4.2)';
+run;
+
+
+data newCar3;
+  set car;
+  format price dollar10.2;
+  keep brand price;
+run;
+
+proc print data=newCar3;
+	title 'New Car Data (Try 3: Numeric dollar format 10.2)';
+run;
+
+
+data newCar4;
+  set car;
+  format price comma10.2;
+  keep brand price;
+run;
+
+proc print data=newCar4;
+	title 'New Car Data (Try 4: Numeric comma format 10.2)';
 run;
