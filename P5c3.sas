@@ -22,7 +22,7 @@ data newCar1;
     *FORMAT mfg date9.; /* 31DEC2024 */ 
     *FORMAT mfg date11.;/* 31-DEC-2024 */ 
    
-	if brand = 'Proton' then mfg = '26JUN2015'd;
+	if brand = 'Proton' then mfg = MDY(7, 26, 2015);
     else if brand = 'Produa' then mfg = '26JUL2016'd;
     else if brand = 'Audi' then mfg = '26JUL2017'd;
     else if brand = 'Mercedes' then mfg = '26JUL2018'd;
