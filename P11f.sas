@@ -37,7 +37,6 @@ run;
 If AUC is equal to 0.5, it means random guessing and model is of useless.
 */
 
-
 proc logistic data=myData desc;
 model attrition = yearOfExperience annualSalary /outroc = rocdata ;
 run;
