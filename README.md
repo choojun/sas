@@ -260,16 +260,16 @@ Hypothesis testing is the use of statistics to determine the probability that a 
 To carry out various types of hypothesis testing, we may perform the following options.
 
 1. T-Test: A t-tests is used to test whether the mean of one variable is significantly different than a hypothesized value.We also determine whether means for two independent groups are significantly different and whether means for dependent or paired groups are significantly different.
-Hints: proc test
+Hints: proc test with SAS programming
 
 2. ANOVA: It is also used to compare means when there is one independent categorical variable. We want to use one-way ANOVA when testing to see if the means of the interval dependent variable are different according to the independent categorical variable. 	
-Hints: proc anova
+Hints: proc anova with SAS programming
 
 3. Chi-Square: We use Chi-Square goodness of fit to assess if frequencies of a categorical variable were likely to happen due to chance. Use of a chi square test is necessary whether proportions of a categorical variable are a hypothesized value.
-Hints: proc freq
+Hints: proc freq with SAS programming
 
 4. Linear Regression: Simple linear regression is used when one wants to test how well a variable predicts another variable. Multiple linearregression allows one to test how well multiple variables predict a variable of interest. When using multiple linear regression, we additionally assume the predictor variables are independent. 	
-Hints: proc corr
+Hints: proc corr with SAS programming
 
 
 [P7a1.sas](https://github.com/choojun/sas/blob/main/P7a1.sas) How to do simple random sampling (from targeted dataset)
