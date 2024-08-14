@@ -204,6 +204,31 @@
 
 
 ### Practical 7
+[P7a1.sas](https://github.com/choojun/sas/blob/main/P7a1.sas) How to do simple random sampling (from targeted dataset)
+
+[P7a2.sas](https://github.com/choojun/sas/blob/main/P7a2.sas) How to do stratified sampling (from targeted dataset)
+
+[P7a3.sas](https://github.com/choojun/sas/blob/main/P7a3.sas) How to do correlation analysis
+
+[P7a4.sas](https://github.com/choojun/sas/blob/main/P7a4.sas) How to do correlation analysis with plot
+
+[P7b1.sas](https://github.com/choojun/sas/blob/main/P7b1.sas) How to do regression analisys with simple random sampling
+
+[P7b2.sas](https://github.com/choojun/sas/blob/main/P7b2.sas) How to do regression analysis with stratified sampling
+
+[P7b3.sas](https://github.com/choojun/sas/blob/main/P7b3.sas) How to do regression analysis
+
+[P7c1.sas](https://github.com/choojun/sas/blob/main/P7c1.sas) How to do Chi-Square analisys with cross-tabulation table
+
+[P7c2.sas](https://github.com/choojun/sas/blob/main/P7c2.sas) How to do Chi-Square analysis with cross-tabulation table and frequency plot (by targeted cluster)
+
+[P7c3.sas](https://github.com/choojun/sas/blob/main/P7c3.sas) How to do Kappa analysis (an agreement study)
+
+[P7d1.sas](https://github.com/choojun/sas/blob/main/P7d1.sas) How to do One-sample T-Test analisys
+
+[P7d2.sas](https://github.com/choojun/sas/blob/main/P7d2.sas) How to do Independent Two-samples (Unpaired) T-Test analysis
+
+[P7e1.sas](https://github.com/choojun/sas/blob/main/P71e.sas) How to do One-way ANOVA analysis
 
 
 ### Practical 8
