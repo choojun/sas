@@ -219,23 +219,43 @@ Hypothesis testing is the use of statistics to determine the probability that a 
      
      H1: Sports performance will be increased by taking Caffeine.
      
+   * Example of One-way ANOVA Test (It is used to compare the means of three or more groups.)
+
+     H0: There is no significant difference in the average weight loss among participants on Diet A, Diet B, Diet C, and Diet D.
+
+     H1: There is a significant difference in the average weight loss among participants on Diet A, Diet B, Diet C, and Diet D.
+
    * Example of Chi-Square Test:
      
      H0: University 4-years program study is independent of a student's relationship status.
      
      H1: University 4-years program study is influence on a student's relationship status.
      
-   * Example of One-way ANOVA Test (It is used to compare the means of three or more groups.)
+   * Example of Linear Regression Test (One Independent Variable):
 
-     H0: There is no significant difference in the average weight loss among participants on Diet A, Diet B, Diet C, and Diet D.
+     H0: There is no linear relationship between hours studied and exam scores 
 
-     H1: There is a significant difference in the average weight loss among participants on Diet A, Diet B, Diet C, and Diet D.
+     H1: There is a linear relationship between hours studied and exam scores)
+
+   * Example of Linear Regression Test (Multiple Independent Variable):
+
+     H0: None of age, gender, and income (X1, X2, X3) affect spending on luxury goods (Y)
+
+     H1: At least one of age, gender, and income (X1, X2, X3) affect spending on luxury goods
+
+   * Key Points
+
+     * The H0 always assumes no relationship (or change or impact or influence) between the variable/s.
+  
+     * The H1 states that there is a relationship.
+     
+     * The choice between a two-sided or one-sided test depends on the research question.
     
 2. Identify a test statistic that can be used to assess the truth of the null hypothesis.
  
 3. Compute the P-value, which is the probability that a test statistic at least as significant as the one observed would be obtained assuming that the null hypothesis were true. The smaller the P-value, the stronger the evidence against the null hypothesis.
 
-4. Compare the p-value to an acceptable significance value alpha (sometimes called an alpha value). Suppose p <=alpha, that the observed effect is statistically significant, the null hypothesis is ruled out, and the alternative hypothesis is valid.
+4. Compare the p-value to an acceptable significance value alpha (sometimes called an alpha value). Suppose p <= alpha, that the observed effect is statistically significant, the null hypothesis is ruled out, and the alternative hypothesis is valid.
 
 To carry out various types of hypothesis testing, we may perform the following options.
 
