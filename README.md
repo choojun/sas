@@ -243,7 +243,7 @@ Hypothesis testing is the use of statistics to determine the probability that a 
 
      H1: At least one of age, gender, and income (X1, X2, X3) affect spending on luxury goods
 
-   * Key Points
+   * Key Points:
 
      * The H0 always assumes no relationship (or change or impact or influence) between the variable/s.
   
