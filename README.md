@@ -270,7 +270,7 @@ Hints: PROC CORR with SAS programming
 
 [P7d2.sas](https://github.com/choojun/sas/blob/main/P7d2.sas) How to do Independent Two-samples (Unpaired) T-Test analysis
 
-[P7e1.sas](https://github.com/choojun/sas/blob/main/P71e.sas) How to do One-way ANOVA analysis
+[P7e1.sas](https://github.com/choojun/sas/blob/main/P7e1.sas) How to do One-way ANOVA analysis
 
 
 ### Practical 8
