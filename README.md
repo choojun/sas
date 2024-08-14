@@ -207,8 +207,28 @@
 Hypothesis testing is the use of statistics to determine the probability that a given hypothesis is true. The usual process of hypothesis testing consists of the following steps.
 
 1. Formulate the null hypothesis H0 (commonly, that the observations are the result of pure chance) and the alternative hypothesis H1 (commonly, that the observations show a real effect combined with a component of chance variation).
+   * Example of One-sample T-Test:
+     
+     H0: Mean screen size of sample does not differ from 10cm
+     
+     H1: Mean screen size of sample differ from 10cm
+     
+   * Example of Independent Two-samples (Unpaired) T-Test:
+     
+     H0: There is no difference in sports performance by taking Caffeine.
+     
+     H1: Sports performance will be increased by taking Caffeine.
+     
+   * Example of Chi-Square Test:
+     
+     H0: University 4-years program study is independent of a student's relationship status.
+     
+     H1: University 4-years program study is influence on a student's relationship status.
+     
 2. Identify a test statistic that can be used to assess the truth of the null hypothesis.
+ 
 3. Compute the P-value, which is the probability that a test statistic at least as significant as the one observed would be obtained assuming that the null hypothesis were true. The smaller the P-value, the stronger the evidence against the null hypothesis.
+
 4. Compare the p-value to an acceptable significance value alpha (sometimes called an alpha value). Suppose p <=alpha, that the observed effect is statistically significant, the null hypothesis is ruled out, and the alternative hypothesis is valid.
 
 To carry out various types of hypothesis testing, we may perform the following options.
