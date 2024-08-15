@@ -172,35 +172,35 @@
 
 ### Practical 6
 
-[P6a1.sas](https://github.com/choojun/sas/blob/main/P6a1.sas)
+[P6a1.sas](https://github.com/choojun/sas/blob/main/P6a1.sas) How to calculate BMI (Body Mass Index)
 
-[P6a2.sas](https://github.com/choojun/sas/blob/main/P6a2.sas)
+[P6a2.sas](https://github.com/choojun/sas/blob/main/P6a2.sas) Arithmetic operators
 
-[P6a3.sas](https://github.com/choojun/sas/blob/main/P6a3.sas)
+[P6a3.sas](https://github.com/choojun/sas/blob/main/P6a3.sas) Logical operators
 
-[P6a4.sas](https://github.com/choojun/sas/blob/main/P6a4.sas)
+[P6a4.sas](https://github.com/choojun/sas/blob/main/P6a4.sas) Comparison operators
 
-[P6a5.sas](https://github.com/choojun/sas/blob/main/P6a5.sas)
+[P6a5.sas](https://github.com/choojun/sas/blob/main/P6a5.sas) Mathematic-based functions
 
-[P6a6.sas](https://github.com/choojun/sas/blob/main/P6a6.sas)
+[P6a6.sas](https://github.com/choojun/sas/blob/main/P6a6.sas) Concatenation operator
 
-[P6a7.sas](https://github.com/choojun/sas/blob/main/P6a7.sas)
+[P6a7.sas](https://github.com/choojun/sas/blob/main/P6a7.sas) Dash (-) operators
 
-[P6a8.sas](https://github.com/choojun/sas/blob/main/P6a8.sas)
+[P6a8.sas](https://github.com/choojun/sas/blob/main/P6a8.sas) Colon (:) operator
 
-[P6a9.sas](https://github.com/choojun/sas/blob/main/P6a9.sas)
+[P6a9.sas](https://github.com/choojun/sas/blob/main/P6a9.sas) PROC MEANS
 
-[P6b1.sas](https://github.com/choojun/sas/blob/main/P6b1.sas)
+[P6b1.sas](https://github.com/choojun/sas/blob/main/P6b1.sas) Character-based functions
 
-[P6b2.sas](https://github.com/choojun/sas/blob/main/P6b2.sas)
+[P6b2.sas](https://github.com/choojun/sas/blob/main/P6b2.sas) Date and time-based functions
 
-[P6b3.sas](https://github.com/choojun/sas/blob/main/P6b3.sas)
+[P6b3.sas](https://github.com/choojun/sas/blob/main/P6b3.sas) Statistical-based functions
 
-[P6b4.sas](https://github.com/choojun/sas/blob/main/P6b4.sas)
+[P6b4.sas](https://github.com/choojun/sas/blob/main/P6b4.sas) Numeric-based functions
 
-[P6b5.sas](https://github.com/choojun/sas/blob/main/P6b5.sas)
+[P6b5.sas](https://github.com/choojun/sas/blob/main/P6b5.sas) Handling missing data with COALESCE and COALESCEC
 
-[P6b6.sas](https://github.com/choojun/sas/blob/main/P6b6.sas)
+[P6b6.sas](https://github.com/choojun/sas/blob/main/P6b6.sas) How to manipulate date
 
 
 ### Practical 7
