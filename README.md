@@ -125,49 +125,47 @@
 
 ### Practical 5
 
-[P5a0.sas](https://github.com/choojun/sas/blob/main/P5a0.sas)
+[P5a0.sas](https://github.com/choojun/sas/blob/main/P5a0.sas) How to create a temporary dataset of race car
 
-[P5a1.sas](https://github.com/choojun/sas/blob/main/P5a1.sas)
+[P5a1.sas](https://github.com/choojun/sas/blob/main/P5a1.sas) How to create a permanent dataset of race car
 
-[P5a2.sas](https://github.com/choojun/sas/blob/main/P5a2.sas)
+[P5a2.sas](https://github.com/choojun/sas/blob/main/P5a2.sas) How to use IF statement for decision making
 
-[P5a3.sas](https://github.com/choojun/sas/blob/main/P5a3.sas)
+[P5a3.sas](https://github.com/choojun/sas/blob/main/P5a3.sas) How to use IF-THEN-DELETE statement for decision making
 
-[P5a4.sas](https://github.com/choojun/sas/blob/main/P5a4.sas)
+[P5a4.sas](https://github.com/choojun/sas/blob/main/P5a4.sas) How to use IF-THEN-ELSE statement for decision making
 
-[P5a5.sas](https://github.com/choojun/sas/blob/main/P5a5.sas)
+[P5a5.sas](https://github.com/choojun/sas/blob/main/P5a5.sas) How to use IF-THEN-ELSE-IF-ELSE statement for decision making
 
-[P5a6.sas](https://github.com/choojun/sas/blob/main/P5a6.sas)
+[P5b1a.sas](https://github.com/choojun/sas/blob/main/P5b1a.sas) Application of IF-THEN-ELSE-IF-ELSE statement with FORMAT
 
-[P5b1a.sas](https://github.com/choojun/sas/blob/main/P5b1a.sas)
+[P5b1b.sas](https://github.com/choojun/sas/blob/main/P5b1b.sas) How to DROP-KEEP variables of dataset
 
-[P5b1b.sas](https://github.com/choojun/sas/blob/main/P5b1b.sas)
+[P5b2.sas](https://github.com/choojun/sas/blob/main/P5b2.sas) Application of IF statement with numeric and statistical-based functions
 
-[P5b2.sas](https://github.com/choojun/sas/blob/main/P5b2.sas)
+[P5b3.sas](https://github.com/choojun/sas/blob/main/P5b3.sas) Application of IF statement with numeric, statistical-based functions and FORMAT
 
-[P5b3.sas](https://github.com/choojun/sas/blob/main/P5b3.sas)
+[P5b4.sas](https://github.com/choojun/sas/blob/main/P5b4.sas) Application of IF-THEN-ELSE statement with delete and comparison operator
 
-[P5b4.sas](https://github.com/choojun/sas/blob/main/P5b4.sas)
+[P5b5.sas](https://github.com/choojun/sas/blob/main/P5b5.sas) How to use TRUNC on numerical data
 
-[P5b5.sas](https://github.com/choojun/sas/blob/main/P5b5.sas)
+[P5c1.sas](https://github.com/choojun/sas/blob/main/P5c1.sas) Application of KEEP variables with FORMAT on generic, DOLLAR and COMMA
 
-[P5c1.sas](https://github.com/choojun/sas/blob/main/P5c1.sas)
+[P5c2.sas](https://github.com/choojun/sas/blob/main/P5c2.sas) How to FORMAT date
 
-[P5c2.sas](https://github.com/choojun/sas/blob/main/P5c2.sas)
+[P5c3.sas](https://github.com/choojun/sas/blob/main/P5c3.sas) Application of FORMAT date with F-THEN-ELSE-IF-ELSE statement and function MDY
 
-[P5c3.sas](https://github.com/choojun/sas/blob/main/P5c3.sas)
+[P5c4.sas](https://github.com/choojun/sas/blob/main/P5c4.sas) Application of FORMAT datetime with F-THEN-ELSE-IF-ELSE statement
 
-[P5c4.sas](https://github.com/choojun/sas/blob/main/P5c4.sas)
+[P5c5.sas](https://github.com/choojun/sas/blob/main/P5c5.sas) Application of FORMAT timeampm with F-THEN-ELSE-IF-ELSE statement
 
-[P5c5.sas](https://github.com/choojun/sas/blob/main/P5c5.sas)
+[P5d1.sas](https://github.com/choojun/sas/blob/main/P5d1.sas) Application of IF statement 
 
-[P5d1.sas](https://github.com/choojun/sas/blob/main/P5d1.sas)
+[P5d2.sas](https://github.com/choojun/sas/blob/main/P5d2.sas) How to use FOOTNOTE 
 
-[P5d2.sas](https://github.com/choojun/sas/blob/main/P5d2.sas)
+[P5d3.sas](https://github.com/choojun/sas/blob/main/P5d3.sas) How to use MISSING function
 
-[P5d3.sas](https://github.com/choojun/sas/blob/main/P5d3.sas)
-
-[P5d4.sas](https://github.com/choojun/sas/blob/main/P5d4.sas)
+[P5d4.sas](https://github.com/choojun/sas/blob/main/P5d4.sas) Application of MISSING function with IF-THEN-ELSE statement
 
 
 ### Practical 6
