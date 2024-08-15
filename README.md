@@ -206,24 +206,24 @@
 ### Practical 7
 Hypothesis testing is the use of statistics to determine the probability that a given hypothesis is true. The usual process of hypothesis testing consists of the following steps.
 
-1. Formulate the null hypothesis H0 (commonly, that the observations are the result of pure chance) and the alternative hypothesis H1 (commonly, that the observations show a real effect combined with a component of chance variation).
+1. Formulate the null hypothesis $H_0$ (commonly, that the observations are the result of pure chance) and the alternative hypothesis $H_1$ (commonly, that the observations show a real effect combined with a component of chance variation).
 
    * Key Points:
 
-     * The H0 always assumes no relationship (or change or impact or influence) between the variable/s.
+     * The $H_0$ always assumes no relationship (or change or impact or influence) between the variable/s.
   
-     * The H1 states that there is a relationship.
+     * The $H_1$ states that there is a relationship.
      
      * The choice between a two-sided or one-sided test depends on the research question.
 
    | Statistical Test  | Examples of Hypothesis | 
    | :---------------- | :------ | 
-   | One-sample T-Test | H0: Mean screen size of sample does not differ from 10cm <br />H1: Mean screen size of sample differ from 10cm |
-   | Independent Two-samples (Unpaired) T-Test | H0: There is no difference in sports performance by taking Caffeine <br /> H1: Sports performance will be increased by taking Caffeine |
-   | One-way ANOVA Test (It is used to compare the means of three or more groups.) | H0: There is no significant difference in the average weight loss among participants on Diet A, Diet B, Diet C, and Diet D <br /> H1: There is a significant difference in the average weight loss among participants on Diet A, Diet B, Diet C, and Diet D|
-   | Chi-Square Test | H0: University 4-years program study is independent of a student's relationship status <br /> H1: University 4-years program study is influence on a student's relationship status |
-   | Linear Regression Test (One Independent Variable) | H0: There is no linear relationship between hours studied and exam scores <br /> H1: There is a linear relationship between hours studied and exam scores |
-   | Linear Regression Test (Multiple Independent Variables) | H0: None of age, gender, and income (X1, X2, X3) affect spending on luxury goods (Y) <br /> H1: At least one of age, gender, and income (X1, X2, X3) affect spending on luxury goods |
+   | One-sample T-Test | $H_0$: Mean screen size of sample does not differ from 10cm <br />$H_1$: Mean screen size of sample differ from 10cm |
+   | Independent Two-samples (Unpaired) T-Test | $H_0$: There is no difference in sports performance by taking Caffeine <br /> $H_1$: Sports performance will be increased by taking Caffeine |
+   | One-way ANOVA Test (It is used to compare the means of three or more groups.) | $H_0$: There is no significant difference in the average weight loss among participants on Diet A, Diet B, Diet C, and Diet D <br /> $H_1$: There is a significant difference in the average weight loss among participants on Diet A, Diet B, Diet C, and Diet D|
+   | Chi-Square Test | $H_0$: University 4-years program study is independent of a student's relationship status <br /> $H_1$: University 4-years program study is influence on a student's relationship status |
+   | Linear Regression Test (One Independent Variable) | $H_0$: There is no linear relationship between hours studied and exam scores <br /> $H_1$: There is a linear relationship between hours studied and exam scores |
+   | Linear Regression Test (Multiple Independent Variables) | $H_0$: None of age ($X_1$), gender ($X_2$), and income ($X_3$) affect spending on luxury goods (Y) <br /> $H_1$: At least one of age ($X_1$), gender ($X_2$), and income ($X_3$) affect spending on luxury goods |
     
 2. Identify a test statistic that can be used to assess the truth of the null hypothesis.
  
