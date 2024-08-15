@@ -125,9 +125,9 @@
 
 ### Practical 5
 
-[P5a0.sas](https://github.com/choojun/sas/blob/main/P5a0.sas) How to create a temporary dataset of race car
+[P5a0.sas](https://github.com/choojun/sas/blob/main/P5a0.sas) How to create a temporary dataset
 
-[P5a1.sas](https://github.com/choojun/sas/blob/main/P5a1.sas) How to create a permanent dataset of race car
+[P5a1.sas](https://github.com/choojun/sas/blob/main/P5a1.sas) How to create a permanent dataset
 
 [P5a2.sas](https://github.com/choojun/sas/blob/main/P5a2.sas) How to use IF statement for decision making
 
