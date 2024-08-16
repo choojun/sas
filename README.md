@@ -236,11 +236,12 @@ Hints: PROC TTEST with SAS programming
 Hints: PROC ANOVA with SAS programming
 
 3. Chi-Square: We use Chi-Square goodness of fit to assess if frequencies of a categorical variable were likely to happen due to chance. Use of a chi square test is necessary whether proportions of a categorical variable are a hypothesized value.
-Hints: PROC FREQ with SAS programming
+Hints: PROC FREQ and PROC SURVEYFREQ with SAS programming
 
 4. Linear Regression: Simple linear regression is used when one wants to test how well a variable predicts another variable. Multiple linearregression allows one to test how well multiple variables predict a variable of interest. When using multiple linear regression, we additionally assume the predictor variables are independent. 	
 Hints: PROC REG and PROC SURVEYREG with SAS programming
 
+Note that the non-survey procedures, e.g. PROC FREQ, PROC REG, PROC MEANS and etc, allows us using weights. SAS programming also includes procedures (also known as survey procedures), e.g. PROC SURVEYFREQ, PROC SURVEYREG, PROC SURVEYMEANS and etc, that can take advantage of complex survey samples including strata and clusters.
 
 [P7a1.sas](https://github.com/choojun/sas/blob/main/P7a1.sas) How to do simple random sampling (from targeted dataset)
 
