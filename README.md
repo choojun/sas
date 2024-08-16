@@ -204,15 +204,13 @@
 ### Practical 7
 Hypothesis testing is the use of statistics to determine the probability that a given hypothesis is true. The usual process of hypothesis testing consists of the following steps.
 
-1. Formulate the null hypothesis $H_0$ (commonly, that the observations are the result of pure chance) and the alternative hypothesis $H_1$ (commonly, that the observations show a real effect combined with a component of chance variation).
+1. Formulate the null hypothesis $H_0$ (commonly, that the observations are the result of pure chance) and the alternative hypothesis $H_1$ (commonly, that the observations show a real effect combined with a component of chance variation). Key Points in formulating hypothesis is listed as follows.
 
-   * Key Points:
-
-     * The $H_0$ always assumes no relationship (or change or impact or influence) between the variable/s.
+   * The $H_0$ always assumes no relationship (or change or impact or influence) between the variable/s.
   
-     * The $H_1$ states that there is a relationship.
+   * The $H_1$ states that there is a relationship.
      
-     * The choice between a two-sided or one-sided test depends on the research question.
+   * The choice between a two-sided or one-sided test depends on the research question.
 
    | Statistical Test  | Examples of Hypothesis | 
    | :---------------- | :------ | 
