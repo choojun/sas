@@ -241,14 +241,14 @@ Hints: PROC ANOVA with SAS programming
 Hints: PROC FREQ with SAS programming
 
 4. Linear Regression: Simple linear regression is used when one wants to test how well a variable predicts another variable. Multiple linearregression allows one to test how well multiple variables predict a variable of interest. When using multiple linear regression, we additionally assume the predictor variables are independent. 	
-Hints: PROC CORR with SAS programming
+Hints: PROC SURVEYREG with SAS programming
 
 
 [P7a1.sas](https://github.com/choojun/sas/blob/main/P7a1.sas) How to do simple random sampling (from targeted dataset)
 
 [P7a2.sas](https://github.com/choojun/sas/blob/main/P7a2.sas) How to do stratified sampling (from targeted dataset)
 
-[P7a3.sas](https://github.com/choojun/sas/blob/main/P7a3.sas) How to do correlation analysis
+[P7a3.sas](https://github.com/choojun/sas/blob/main/P7a3.sas) How to do correlation Coefficient analysis with pearson, cronbach alpha, hoeffding, kendall and spearman methods
 
 [P7a4.sas](https://github.com/choojun/sas/blob/main/P7a4.sas) How to do correlation analysis with plot
 
