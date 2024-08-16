@@ -257,7 +257,7 @@ Note that the non-survey procedures, e.g. PROC FREQ, PROC REG, PROC MEANS and et
 
 [P7b3.sas](https://github.com/choojun/sas/blob/main/P7b3.sas) How to do regression analysis with stratified sampling
 
-[P7b4.sas](https://github.com/choojun/sas/blob/main/P7b4.sas) How to do regression analysis
+[P7b4.sas](https://github.com/choojun/sas/blob/main/P7b4.sas) How to do regression analysis with SQL
 
 [P7c1.sas](https://github.com/choojun/sas/blob/main/P7c1.sas) How to do Chi-Square analisys with cross-tabulation table
 
