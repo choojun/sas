@@ -1,57 +1,62 @@
-data lunch;
-   input studentAge spending pocketMoney Students @@;
-   datalines;
-17   7  39  2   17   7  38  1   18  12  47  1
-19  10  47  4   17   1  34  4   17  10  43  2
-17   3  44  4   18  20  60  3   18  19  57  4
-17   2  35  2   17   2  36  1   19  15  51  1
-18  16  53  1   17   6  37  4   17   6  41  2
-17   6  39  2   19  15  50  4   18  17  57  3
-18  14  46  2   19   8  41  2   19   8  41  1
-19   7  47  3   17   3  39  3   17  12  50  2
-17   4  43  4   19  14  46  3   18  18  58  4
-19   9  44  3   17   2  37  1   17   1  37  2
-17   4  44  2   17  11  42  2   19   8  41  2
-18  10  42  2   18  13  46  1   17   2  40  3
-19   6  45  1   19  11  45  4   17   2  36  1
-17   9  46  1
-;
-
-/* Requests a regression analysis.
-Read more at https://en.wikipedia.org/wiki/Regression_analysis
-
-The TOTAL=4000 option specifies the total in the population from 
-which the sample is drawn. 
-
-The CLASS statement requests that the procedure use 
-the variable Students as a classification variable in the analysis. 
-
-The MODEL statement describes the linear model that 
-you want to fit, with Spending as the dependent variable and 
-pocketMoney and Students as the independent variables. 
-
-The SOLUTION option in the MODEL statement requests that 
-the procedure output the regression coefficient estimates.
-*/
-title1 'Lunch Spending Analysis';
-title2 'using Simple Random Sample Design';
-proc surveyreg data=lunch total=4000;
-   class Students;
-   model spending = pocketMoney Students / solution;
+proc print data=sashelp.class;
 run;
 
-/* Output:
-It displays the summary of the data, the summary of the fit, 
-and the levels of the classification variable Students. 
-The "Fit Statistics" table displays the denominator degrees of freedom, 
-which are used in F tests and t tests in the regression analysis.
+/* We use regression analysis to find out 
+how well we can predict a child’s weight if you know that child’s height. 
+The Class data set used in this example is available in the Sashelp library.
+*/
+proc reg data=sashelp.class;
+   model Weight = Height;
+run;
 
-It also displays the tests for model effects. 
-The effect Income is significant in the linear regression model, 
-while the effect Students is not significant at the 5% level.
+/* The F statistic for the overall model is 
+highly significant (F = 57.076, p < 0.0001), 
+indicating that the model explains a significant portion of 
+the variation in the data.
 
-The regression coefficient estimates and 
-their standard errors and associated t tests are displayed too!
+The degrees of freedom can be used in checking accuracy of the data and model. 
+The model degrees of freedom are one less than 
+the number of parameters to be estimated. 
+This model estimates two parameters, beta 0 and beta 1; 
+thus, the degrees of freedom should be 2 – 1 = 1. 
+The corrected total degrees of freedom are always one less than 
+the total number of observations in the data set, in this case 19 – 1 = 18.
 
-Reference: https://documentation.sas.com/doc/en/pgmsascdc/9.4_3.5/statug/statug_surveyreg_gettingstarted01.htm
+The Root MSE is an estimate of the standard deviation of the error term. 
+The coefficient of variation, or Coeff Var, 
+is a unitless expression of the variation in the data. 
+The R-square and Adj R-square are two statistics used 
+in assessing the fit of the model; 
+values close to 1 indicate a better fit. 
+The R-square of 0.77 indicates that Height accounts for 
+77% of the variation in Weight.
+
+The "Parameter Estimates" table contains the estimates of beta 0 and beta 1. 
+The table also contains the t statistics and 
+the corresponding p-values for testing whether 
+each parameter is significantly different from zero. 
+The p-values (t = –4.43, p = 0.0004 and t = 7.55, p < 0.0001) 
+indicate that the intercept and Height parameter estimates, respectively, 
+are highly significant.
+
+From the parameter estimates, the fitted model is
+Weight = -143.0 + 3.9 X Height
+
+PROC REG also produces a variety of plots. 
+It shows a plot of the residuals versus the regressor and 
+it also shows a panel of diagnostic plots.
+
+A trend in the residuals would indicate nonconstant variance in the data. 
+The plot of residuals by predicted values in 
+the upper-left corner of the diagnostics panel might 
+indicate a slight trend in the residuals; 
+they appear to increase slightly as the predicted values increase. 
+A fan-shaped trend might indicate the need for 
+a variance-stabilizing transformation. 
+A curved trend (such as a semicircle) might indicate the need 
+for a quadratic term in the model. 
+Since these residuals have no apparent trend, 
+the analysis is considered to be acceptable.
+
+Reference: https://documentation.sas.com/doc/en/pgmsascdc/9.4_3.5/statug/statug_reg_gettingstarted01.htm
 */
