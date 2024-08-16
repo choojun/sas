@@ -239,7 +239,7 @@ Hints: PROC ANOVA with SAS programming
 Hints: PROC FREQ with SAS programming
 
 4. Linear Regression: Simple linear regression is used when one wants to test how well a variable predicts another variable. Multiple linearregression allows one to test how well multiple variables predict a variable of interest. When using multiple linear regression, we additionally assume the predictor variables are independent. 	
-Hints: PROC SURVEYREG with SAS programming
+Hints: PROC REG and PROC SURVEYREG with SAS programming
 
 
 [P7a1.sas](https://github.com/choojun/sas/blob/main/P7a1.sas) How to do simple random sampling (from targeted dataset)
@@ -250,11 +250,13 @@ Hints: PROC SURVEYREG with SAS programming
 
 [P7a4.sas](https://github.com/choojun/sas/blob/main/P7a4.sas) How to do correlation analysis with plot
 
-[P7b1.sas](https://github.com/choojun/sas/blob/main/P7b1.sas) How to do regression analisys with simple random sampling
+[P7b1.sas](https://github.com/choojun/sas/blob/main/P7b1.sas) How to do regression analisys 
 
-[P7b2.sas](https://github.com/choojun/sas/blob/main/P7b2.sas) How to do regression analysis with stratified sampling
+[P7b2.sas](https://github.com/choojun/sas/blob/main/P7b2.sas) How to do regression analisys with simple random sampling
 
-[P7b3.sas](https://github.com/choojun/sas/blob/main/P7b3.sas) How to do regression analysis
+[P7b3.sas](https://github.com/choojun/sas/blob/main/P7b3.sas) How to do regression analysis with stratified sampling
+
+[P7b4.sas](https://github.com/choojun/sas/blob/main/P7b4.sas) How to do regression analysis
 
 [P7c1.sas](https://github.com/choojun/sas/blob/main/P7c1.sas) How to do Chi-Square analisys with cross-tabulation table
 
