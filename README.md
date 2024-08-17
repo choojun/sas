@@ -54,27 +54,27 @@
 
 ### Practical 4
 
-[P4a.sas](https://github.com/choojun/sas/blob/main/P4a.sas) 
+[P4a.sas](https://github.com/choojun/sas/blob/main/P4a.sas) How to specify length (by number of bytes) for character variables
 
-[P4b.sas](https://github.com/choojun/sas/blob/main/P4b.sas) 
+[P4b.sas](https://github.com/choojun/sas/blob/main/P4b.sas) How to specify length (using dash) for character variables
 
-[P4c.sas](https://github.com/choojun/sas/blob/main/P4c.sas) 
+[P4c.sas](https://github.com/choojun/sas/blob/main/P4c.sas) How to FORMAT date
 
-[P4d1.sas](https://github.com/choojun/sas/blob/main/P4d1.sas)
+[P4d1.sas](https://github.com/choojun/sas/blob/main/P4d1.sas) How to merge dataset with two SETs
 
-[P4d2.sas](https://github.com/choojun/sas/blob/main/P4d2.sas)
+[P4d2.sas](https://github.com/choojun/sas/blob/main/P4d2.sas) How to merge dataset with a SET
 
-[P4e1.sas](https://github.com/choojun/sas/blob/main/P4e1.sas)
+[P4e1.sas](https://github.com/choojun/sas/blob/main/P4e1.sas) How to use MERGE
 
-[P4e2.sas](https://github.com/choojun/sas/blob/main/P4e2.sas)
+[P4e2.sas](https://github.com/choojun/sas/blob/main/P4e2.sas) How to specify length (using dash) for character variables
 
-[P4e3.sas](https://github.com/choojun/sas/blob/main/P4e3.sas)
+[P4e3.sas](https://github.com/choojun/sas/blob/main/P4e3.sas) Application of MERGE with DROP and RENAME
 
-[P4e4.sas](https://github.com/choojun/sas/blob/main/P4e4.sas)
+[P4e4.sas](https://github.com/choojun/sas/blob/main/P4e4.sas) How to specify length (using dash) for character variables
 
-[P4f1.sas](https://github.com/choojun/sas/blob/main/P4f1.sas)
+[P4f1.sas](https://github.com/choojun/sas/blob/main/P4f1.sas) How to use PROD SORT with BY
 
-[P4f2.sas](https://github.com/choojun/sas/blob/main/P4f2.sas)
+[P4f2.sas](https://github.com/choojun/sas/blob/main/P4f2.sas) Application of MERGE with PROC SOFT
 
 [P4g1.sas](https://github.com/choojun/sas/blob/main/P4g1.sas)
 
