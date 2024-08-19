@@ -274,6 +274,52 @@ Note that the non-survey procedures, e.g. PROC FREQ, PROC REG, PROC MEANS and et
 
 ### Practical 8
 
+[P8a1.sas](https://github.com/choojun/sas/blob/main/P8a1.sas) How to display descriptive statistic with PROC TABULATE
+
+[P8a2.sas](https://github.com/choojun/sas/blob/main/P8a2.sas) How to use PROC TABULATE with classification variable using asterisk (*)
+
+[P8a3.sas](https://github.com/choojun/sas/blob/main/P8a3.sas) How to use PROC TABULATE with required statistic
+
+[P8a4.sas](https://github.com/choojun/sas/blob/main/P8a4.sas) How to use PROC TABULATE with classification variable and statistic
+
+[P8a5.sas](https://github.com/choojun/sas/blob/main/P8a5.sas) How to use PROC TABULATE with parentheses ()
+
+[P8a6.sas](https://github.com/choojun/sas/blob/main/P8a6.sas) How to use PROC TABULATE with ALL
+
+[P8a7.sas](https://github.com/choojun/sas/blob/main/P8a7.sas) Application of PROC TABULATE
+
+[P8b1.sas](https://github.com/choojun/sas/blob/main/P8b1.sas) How to use PROC TABULATE with RTS
+
+[P8b2.sas](https://github.com/choojun/sas/blob/main/P8b2.sas) How to use PROC TABULATE with classification variable and parentheses
+
+[P8b3.sas](https://github.com/choojun/sas/blob/main/P8b3.sas) How to use PROC TABULATE with CLASSLEV and STYLE
+
+[P8b4.sas](https://github.com/choojun/sas/blob/main/P8b4.sas) How to use PROC TABULATE with classification variable and parentheses
+
+[P8b5.sas](https://github.com/choojun/sas/blob/main/P8b5.sas) How to use PROC TABULATE with classification variable, parentheses and ALL
+
+[P8c1.sas](https://github.com/choojun/sas/blob/main/P8c1.sas) How to use PROC REPORT with COLUMNS
+
+[P8c2.sas](https://github.com/choojun/sas/blob/main/P8c2.sas) How to use PROC REPORT with WHERE, FORMAT, TITLE and PROC FORMAT
+
+[P8c3.sas](https://github.com/choojun/sas/blob/main/P8c3.sas) How to use PROC REPORT with COLUMN and RBREAK
+
+[P8c4.sas](https://github.com/choojun/sas/blob/main/P8c4.sas) How to use PROC REPORT with DEFINE and BREAK
+
+[P8c5.sas](https://github.com/choojun/sas/blob/main/P8c5.sas) How to use PROC REPORT with Aliases, COMPUTE and multiple statistics
+
+[P8c6.sas](https://github.com/choojun/sas/blob/main/P8c6.sas) How to use PROC REPORT with multiple statistics for a variable
+
+[P8c7.sas](https://github.com/choojun/sas/blob/main/P8c7.sas) How to use PROC REPORT with consolidating observations 
+
+[P8c8.sas](https://github.com/choojun/sas/blob/main/P8c8.sas) How to use PROC REPORT with a column for each value of a variable
+
+[P8c9.sas](https://github.com/choojun/sas/blob/main/P8c9.sas) How to use PROC REPORT with a customised summary 
+
+[P8c10.sas](https://github.com/choojun/sas/blob/main/P8c10.sas) How to use PROC REPORT with a calculated percentage column
+
+
+
 
 ### Practical 9
 
