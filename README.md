@@ -318,7 +318,19 @@ Note that the non-survey procedures, e.g. PROC FREQ, PROC REG, PROC MEANS and et
 
 [P8c10.sas](https://github.com/choojun/sas/blob/main/P8c10.sas) How to use PROC REPORT with a calculated percentage column
 
+[P8d1.sas](https://github.com/choojun/sas/blob/main/P8d1.sas) How to use PROC REPORT to handle missing data
 
+[P8cd.sas](https://github.com/choojun/sas/blob/main/P8d2.sas) How to use PROC REPORT to create output dataset
+
+[P8d3.sas](https://github.com/choojun/sas/blob/main/P8d3.sas) How to use PROC REPORT to create groups
+
+[P8d4.sas](https://github.com/choojun/sas/blob/main/P8d4.sas) How to use PROC REPORT with multi-label formats
+
+[P8d5.sas](https://github.com/choojun/sas/blob/main/P8d5.sas) How to use PROC REPORT with STYLE and output to a file
+
+[P8d6.sas](https://github.com/choojun/sas/blob/main/P8d6.sas) How to use PROC REPORT with CELLWIDTH
+
+[P8d7.sas](https://github.com/choojun/sas/blob/main/P8d7.sas) How to use PROC REPORT with STYLE, MERGE and REPLACE
 
 
 ### Practical 9
