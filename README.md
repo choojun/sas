@@ -1,3 +1,9 @@
+## What is Data Visualisation?
+Data visualization is concerned with visually presenting sets of primarily quantitative raw data in a schematic form. The visual formats used in data visualization include tables, charts and graphs, diagrams, plots, geospatial maps, figures, correlation matrices, percentage gauges, and other approaches, which can be combined in a digital dashboard. 
+
+We are using SAS programming to facilitate practical learning activities and achieve the following outcomes.
+* to enable our learners to communicate information effectively to their viewers using the SAS-based platform as a visualization tool, and
+* to empower learners to create insightful data visualizations that address specific research questions.
 
 ### Practical 1
 
