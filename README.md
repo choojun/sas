@@ -208,6 +208,10 @@ We are using SAS programming to facilitate practical learning activities and ach
 
 
 ### Practical 7
+**Data analysis** is an indispensable part of all applied research and problem solving. The fundamental data analysis approaches are visualisation, statistics (including hypothesis test), data mining, and machine learning methods. 
+
+Among these approaches, information visualization, or visual data analysis, is the most reliant on the cognitive skills of human analysts, and allows the discovery of unstructured actionable insights that are limited only by human imagination and creativity. Note that both data and information visualization presumes that 'visual representations and interaction techniques' take advantage of the human eye's broad bandwidth pathway into the mind to allow users to see, explore, and understand large amounts of information at once. Information visualization focused on the creation of approaches for conveying abstract information in intuitive ways. Information visualization is also a hypothesis generation scheme, which can be, and is typically followed by more analytical or formal analysis, e.g. statistical hypothesis testing.
+
 Hypothesis testing is the use of statistics to determine the probability that a given hypothesis is true. The usual process of hypothesis testing consists of the following steps.
 
 1. Formulate the null hypothesis $H_0$ (commonly, that the observations are the result of pure chance) and the alternative hypothesis $H_1$ (commonly, that the observations show a real effect combined with a component of chance variation). Key Points in formulating hypothesis is listed as follows.
