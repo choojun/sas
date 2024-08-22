@@ -214,7 +214,15 @@ Among these approaches, information visualization, or visual data analysis, is t
 
 Hypothesis testing is the use of statistics to determine the probability that a given hypothesis is true. The usual process of hypothesis testing consists of the following steps.
 
-1. Formulate the null hypothesis $H_0$ (commonly, that the observations are the result of pure chance) and the alternative hypothesis $H_1$ (commonly, that the observations show a real effect combined with a component of chance variation). Key Points in formulating hypothesis is listed as follows.
+1. Formulate the null hypothesis $H_0$ (commonly, that the observations are the result of pure chance) and the alternative hypothesis $H_1$ (commonly, that the observations show a real effect combined with a component of chance variation). 
+    
+2. Identify a test statistic that can be used to assess the truth of the null hypothesis.
+ 
+3. Compute the P-value, which is the probability that a test statistic at least as significant as the one observed would be obtained assuming that the null hypothesis were true. The smaller the P-value, the stronger the evidence against the null hypothesis.
+
+4. Compare the p-value to an acceptable significance value alpha (sometimes called an alpha value). Suppose p <= alpha, that the observed effect is statistically significant, the null hypothesis is ruled out, and the alternative hypothesis is valid.
+
+Key Points in formulating hypothesis is listed as follows.
 
    * The $H_0$ always assumes no relationship (or change or impact or influence) between the variable/s.
   
@@ -230,12 +238,6 @@ Hypothesis testing is the use of statistics to determine the probability that a 
    | Chi-Square Test | $H_0$: University 4-years program study is independent of a student's relationship status <br /> $H_1$: University 4-years program study is influence on a student's relationship status |
    | Linear Regression Test (One Independent Variable) | $H_0$: There is no linear relationship between hours studied and exam scores <br /> $H_1$: There is a linear relationship between hours studied and exam scores |
    | Linear Regression Test (Multiple Independent Variables) | $H_0$: None of age ($X_1$), gender ($X_2$), and income ($X_3$) affect spending on luxury goods (Y) <br /> $H_1$: At least one of age ($X_1$), gender ($X_2$), and income ($X_3$) affect spending on luxury goods |
-    
-2. Identify a test statistic that can be used to assess the truth of the null hypothesis.
- 
-3. Compute the P-value, which is the probability that a test statistic at least as significant as the one observed would be obtained assuming that the null hypothesis were true. The smaller the P-value, the stronger the evidence against the null hypothesis.
-
-4. Compare the p-value to an acceptable significance value alpha (sometimes called an alpha value). Suppose p <= alpha, that the observed effect is statistically significant, the null hypothesis is ruled out, and the alternative hypothesis is valid.
 
 To carry out various types of hypothesis testing, we may perform the following options.
 
