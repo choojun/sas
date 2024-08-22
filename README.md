@@ -255,38 +255,38 @@ Hints: PROC REG and PROC SURVEYREG with SAS programming
 
 Note that the non-survey procedures, e.g. PROC FREQ, PROC REG, PROC MEANS and etc, allows us using weights. SAS programming also includes procedures (also known as survey procedures), e.g. PROC SURVEYFREQ, PROC SURVEYREG, PROC SURVEYMEANS and etc, that can take advantage of complex survey samples including strata and clusters.
 
-[P7a1.sas](https://github.com/choojun/sas/blob/main/P7a1.sas) How to do simple random sampling (from targeted dataset)
+[P7a1.sas](https://github.com/choojun/sas/blob/main/P7a1.sas) How to use PROC  SURVEYSELECT to do simple random sampling (from targeted dataset)
 
-[P7a2.sas](https://github.com/choojun/sas/blob/main/P7a2.sas) How to do stratified sampling (from targeted dataset)
+[P7a2.sas](https://github.com/choojun/sas/blob/main/P7a2.sas) How to use PROC SURVEYSELECT to do stratified sampling (from targeted dataset)
 
-[P7a3.sas](https://github.com/choojun/sas/blob/main/P7a3.sas) How to do correlation Coefficient analysis with pearson, cronbach alpha, hoeffding, kendall and spearman methods
+[P7a3.sas](https://github.com/choojun/sas/blob/main/P7a3.sas) How to to use PROC CORR to do correlation Coefficient analysis with pearson, cronbach alpha, hoeffding, kendall and spearman methods
 
-[P7a4.sas](https://github.com/choojun/sas/blob/main/P7a4.sas) How to do correlation analysis with plot
+[P7a4.sas](https://github.com/choojun/sas/blob/main/P7a4.sas) How to use PROC CORR to do correlation analysis with plot
 
-[P7b1.sas](https://github.com/choojun/sas/blob/main/P7b1.sas) How to do regression analisys 
+[P7b1.sas](https://github.com/choojun/sas/blob/main/P7b1.sas) How to use PROC REG to do regression analisys 
 
-[P7b2.sas](https://github.com/choojun/sas/blob/main/P7b2.sas) How to do regression analisys with simple random sampling
+[P7b2.sas](https://github.com/choojun/sas/blob/main/P7b2.sas) How to use PROC SURVEYREG to do regression analisys with simple random sampling
 
-[P7b3.sas](https://github.com/choojun/sas/blob/main/P7b3.sas) How to do regression analysis with stratified sampling
+[P7b3.sas](https://github.com/choojun/sas/blob/main/P7b3.sas) How to use PROC SURVEYREG to do regression analysis with stratified sampling
 
-[P7b4.sas](https://github.com/choojun/sas/blob/main/P7b4.sas) How to do regression analysis with SQL
+[P7b4.sas](https://github.com/choojun/sas/blob/main/P7b4.sas) How to use PROC SURVEYREG to do regression analysis with SQL
 
-[P7c1.sas](https://github.com/choojun/sas/blob/main/P7c1.sas) How to do Chi-Square analisys with cross-tabulation table
+[P7c1.sas](https://github.com/choojun/sas/blob/main/P7c1.sas) How to use PROC FREQ to do Chi-Square analisys with cross-tabulation table
 
-[P7c2.sas](https://github.com/choojun/sas/blob/main/P7c2.sas) How to do Chi-Square analysis with cross-tabulation table and frequency plot (by targeted cluster)
+[P7c2.sas](https://github.com/choojun/sas/blob/main/P7c2.sas) How to use PROC FREQ to do Chi-Square analysis with cross-tabulation table and frequency plot (by targeted cluster)
 
-[P7c3.sas](https://github.com/choojun/sas/blob/main/P7c3.sas) How to do Kappa analysis (an agreement study)
+[P7c3.sas](https://github.com/choojun/sas/blob/main/P7c3.sas) How to use PROC FREQ to do Kappa analysis (an agreement study)
 
-[P7d1.sas](https://github.com/choojun/sas/blob/main/P7d1.sas) How to do One-sample T-Test analisys
+[P7d1.sas](https://github.com/choojun/sas/blob/main/P7d1.sas) How to use PROC TTEST to do One-sample T-Test analisys
 
-[P7d2.sas](https://github.com/choojun/sas/blob/main/P7d2.sas) How to do Independent Two-samples (Unpaired) T-Test analysis
+[P7d2.sas](https://github.com/choojun/sas/blob/main/P7d2.sas) How to use PROC TTEST to do Independent Two-samples (Unpaired) T-Test analysis
 
-[P7e1.sas](https://github.com/choojun/sas/blob/main/P7e1.sas) How to do One-way ANOVA analysis
+[P7e1.sas](https://github.com/choojun/sas/blob/main/P7e1.sas) How to use PROC ANOVA to do One-way ANOVA analysis
 
 
 ### Practical 8: Fostering Tabulation of Information
 
-[P8a1.sas](https://github.com/choojun/sas/blob/main/P8a1.sas) How to display descriptive statistic with PROC TABULATE
+[P8a1.sas](https://github.com/choojun/sas/blob/main/P8a1.sas) How to use PROC TABULATE to display descriptive statistic
 
 [P8a2.sas](https://github.com/choojun/sas/blob/main/P8a2.sas) How to use PROC TABULATE with classification variable using asterisk (*)
 
@@ -346,4 +346,22 @@ Note that the non-survey procedures, e.g. PROC FREQ, PROC REG, PROC MEANS and et
 
 
 ### Practical 9: Pertaining on Data Transposing and SQL
+
+[P9a1.sas](https://github.com/choojun/sas/blob/main/P8d1.sas) How to use PROC SQL with SELECT and DESCRIBE
+
+[P9a2.sas](https://github.com/choojun/sas/blob/main/P8d2.sas) How to use PROC SQL with string expression
+
+[P9a3.sas](https://github.com/choojun/sas/blob/main/P8d3.sas) How to use PROC SQL with referring a calculated column by alias
+
+[P9a4.sas](https://github.com/choojun/sas/blob/main/P8d4.sas) How to use PROC SQL with CASE and CASE-operand
+
+[P9a5.sas](https://github.com/choojun/sas/blob/main/P8d5.sas) How to use PROC SQL with and without COALESCE to replace missing values
+
+[P9a6.sas](https://github.com/choojun/sas/blob/main/P8d6.sas) How to use PROC SQL with LABEL, FORMAT and ORDER BY
+
+[P9a7.sas](https://github.com/choojun/sas/blob/main/P8d7.sas) How to use PROC SQL with
+
+[P9a8.sas](https://github.com/choojun/sas/blob/main/P8d7.sas) How to use PROC SQL with
+
+[P9a9.sas](https://github.com/choojun/sas/blob/main/P8d7.sas) How to use PROC SQL with
 
