@@ -129,7 +129,7 @@ We are using SAS programming to facilitate practical learning activities and ach
 [P4l.sas](https://github.com/choojun/sas/blob/main/P4l.sas)
 
 
-### Practical 5
+### Practical 5: Enforcing Decision Making
 
 [P5a0.sas](https://github.com/choojun/sas/blob/main/P5a0.sas) How to create a temporary dataset
 
@@ -174,7 +174,7 @@ We are using SAS programming to facilitate practical learning activities and ach
 [P5d4.sas](https://github.com/choojun/sas/blob/main/P5d4.sas) Application of MISSING function with IF-THEN-ELSE statement
 
 
-### Practical 6
+### Practical 6: Employing with Operators and Functions
 
 [P6a1.sas](https://github.com/choojun/sas/blob/main/P6a1.sas) How to calculate BMI (Body Mass Index)
 
@@ -207,7 +207,7 @@ We are using SAS programming to facilitate practical learning activities and ach
 [P6b6.sas](https://github.com/choojun/sas/blob/main/P6b6.sas) How to manipulate date
 
 
-### Practical 7
+### Practical 7: Embarking on Data Sampling and Hypothesis 
 **Data analysis** is an indispensable part of all applied research and problem solving. The fundamental data analysis approaches are visualisation, statistics (including hypothesis test), data mining, and machine learning methods. 
 
 Among these approaches, information visualization, or visual data analysis, is the most reliant on the cognitive skills of human analysts, and allows the discovery of unstructured actionable insights that are limited only by human imagination and creativity. Note that both data and information visualization presumes that 'visual representations and interaction techniques' take advantage of the human eye's broad bandwidth pathway into the mind to allow users to see, explore, and understand large amounts of information at once. Information visualization focused on the creation of approaches for conveying abstract information in intuitive ways. Information visualization is also a hypothesis generation scheme, which can be, and is typically followed by more analytical or formal analysis, e.g. statistical hypothesis testing.
@@ -282,7 +282,7 @@ Note that the non-survey procedures, e.g. PROC FREQ, PROC REG, PROC MEANS and et
 [P7e1.sas](https://github.com/choojun/sas/blob/main/P7e1.sas) How to do One-way ANOVA analysis
 
 
-### Practical 8
+### Practical 8: Fostering Tabulation of Information
 
 [P8a1.sas](https://github.com/choojun/sas/blob/main/P8a1.sas) How to display descriptive statistic with PROC TABULATE
 
@@ -343,5 +343,5 @@ Note that the non-survey procedures, e.g. PROC FREQ, PROC REG, PROC MEANS and et
 [P8d7.sas](https://github.com/choojun/sas/blob/main/P8d7.sas) How to use PROC REPORT with STYLE, MERGE and REPLACE
 
 
-### Practical 9
+### Practical 9: Pertaining on Data Transposing and SQL
 
