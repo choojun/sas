@@ -332,7 +332,7 @@ Note that the non-survey procedures, e.g. PROC FREQ, PROC REG, PROC MEANS and et
 
 [P8d1.sas](https://github.com/choojun/sas/blob/main/P8d1.sas) How to use PROC REPORT to handle missing data
 
-[P8cd.sas](https://github.com/choojun/sas/blob/main/P8d2.sas) How to use PROC REPORT to create output dataset
+[P8d2.sas](https://github.com/choojun/sas/blob/main/P8d2.sas) How to use PROC REPORT to create output dataset
 
 [P8d3.sas](https://github.com/choojun/sas/blob/main/P8d3.sas) How to use PROC REPORT to create groups
 
