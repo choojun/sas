@@ -96,9 +96,11 @@ We are using SAS programming to facilitate practical learning activities and ach
 
 [P4h5.sas](https://github.com/choojun/sas/blob/main/P4h5.sas) Application of DO loop in Brute Force search
 
-[P4i1.sas](https://github.com/choojun/sas/blob/main/P4i1.sas) How to use DO-While loop
+[P4i1.sas](https://github.com/choojun/sas/blob/main/P4i1.sas) How to use DO-WHILE loop
 
-[P4i2.sas](https://github.com/choojun/sas/blob/main/P4i2.sas) Applicatin of DO-While loop in Factorial calculation
+[P4i2.sas](https://github.com/choojun/sas/blob/main/P4i2.sas) Applicatin of DO-WHILE loop in Factorial calculation
+
+[P4i3.sas](https://github.com/choojun/sas/blob/main/P4i3.sas) How to use DO-UTIL loop
 
 [P4j1.sas](https://github.com/choojun/sas/blob/main/P4j1.sas) How to use ARRAY loop with DO loop
 
