@@ -58,7 +58,7 @@ We are using SAS programming to facilitate practical learning activities and ach
 [P3g.sas](https://github.com/choojun/sas/blob/main/P3g.sas) 
 
 
-### Practical 4: Concern on Merging Datasets and Repetitive Operations
+### Practical 4: Concerns about Merging Datasets and Repetitive Operations
 
 [P4a.sas](https://github.com/choojun/sas/blob/main/P4a.sas) How to specify length (by number of bytes) for character variables
 
