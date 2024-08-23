@@ -66,9 +66,9 @@ We are using SAS programming to facilitate practical learning activities and ach
 
 [P4c.sas](https://github.com/choojun/sas/blob/main/P4c.sas) How to FORMAT date
 
-[P4d1.sas](https://github.com/choojun/sas/blob/main/P4d1.sas) How to merge dataset with two SETs
+[P4d1.sas](https://github.com/choojun/sas/blob/main/P4d1.sas) How to merge datasets with two SETs
 
-[P4d2.sas](https://github.com/choojun/sas/blob/main/P4d2.sas) How to merge dataset with a SET
+[P4d2.sas](https://github.com/choojun/sas/blob/main/P4d2.sas) How to merge datasets with a SET
 
 [P4e1.sas](https://github.com/choojun/sas/blob/main/P4e1.sas) How to use MERGE
 
@@ -82,51 +82,51 @@ We are using SAS programming to facilitate practical learning activities and ach
 
 [P4f2.sas](https://github.com/choojun/sas/blob/main/P4f2.sas) Application of MERGE with PROC SOFT
 
-[P4g1.sas](https://github.com/choojun/sas/blob/main/P4g1.sas)
+[P4g1.sas](https://github.com/choojun/sas/blob/main/P4g1.sas) How to use DO loop
 
-[P4g2.sas](https://github.com/choojun/sas/blob/main/P4g2.sas)
+[P4g2.sas](https://github.com/choojun/sas/blob/main/P4g2.sas) How to merge existing datasets with two SETs
 
-[P4h1.sas](https://github.com/choojun/sas/blob/main/P4h1.sas)
+[P4h1.sas](https://github.com/choojun/sas/blob/main/P4h1.sas) How to use DO loop to manipulate data
 
-[P4h2.sas](https://github.com/choojun/sas/blob/main/P4h2.sas)
+[P4h2.sas](https://github.com/choojun/sas/blob/main/P4h2.sas) How to use inner DO loop to manipulate data
 
-[P4h3.sas](https://github.com/choojun/sas/blob/main/P4h3.sas)
+[P4h3.sas](https://github.com/choojun/sas/blob/main/P4h3.sas) Application of DO loop in identifying current and previous 't' (time)
 
-[P4h4.sas](https://github.com/choojun/sas/blob/main/P4h4.sas)
+[P4h4.sas](https://github.com/choojun/sas/blob/main/P4h4.sas) Application of DO loop in Monte Carlo simulation
 
-[P4h5.sas](https://github.com/choojun/sas/blob/main/P4h5.sas)
+[P4h5.sas](https://github.com/choojun/sas/blob/main/P4h5.sas) Application of DO loop in Brute Force search
 
-[P4i1.sas](https://github.com/choojun/sas/blob/main/P4i1.sas)
+[P4i1.sas](https://github.com/choojun/sas/blob/main/P4i1.sas) How to use DO-While loop
 
-[P4i2.sas](https://github.com/choojun/sas/blob/main/P4i2.sas)
+[P4i2.sas](https://github.com/choojun/sas/blob/main/P4i2.sas) Applicatin of DO-While loop in Factorial calculation
 
-[P4j1.sas](https://github.com/choojun/sas/blob/main/P4j1.sas)
+[P4j1.sas](https://github.com/choojun/sas/blob/main/P4j1.sas) How to use ARRAY loop with DO loop
 
-[P4j2.sas](https://github.com/choojun/sas/blob/main/P4j2.sas)
+[P4j2.sas](https://github.com/choojun/sas/blob/main/P4j2.sas) Application of ARRAY loop with DO loop in identifying maximum value
 
-[P4j3a.sas](https://github.com/choojun/sas/blob/main/P4j3a.sas)
+[P4j3a.sas](https://github.com/choojun/sas/blob/main/P4j3a.sas) How to use ARRAY loop with numeric data only
 
-[P4j3b.sas](https://github.com/choojun/sas/blob/main/P4j3b.sas)
+[P4j3b.sas](https://github.com/choojun/sas/blob/main/P4j3b.sas) How to use ARRAY loop on specific variable/s
 
-[P4j4.sas](https://github.com/choojun/sas/blob/main/P4j4.sas)
+[P4j4.sas](https://github.com/choojun/sas/blob/main/P4j4.sas) How to use ARRAY loop with DO loop on character data
 
-[P4k1a.sas](https://github.com/choojun/sas/blob/main/P4k1a.sas)
+[P4k1a.sas](https://github.com/choojun/sas/blob/main/P4k1a.sas) How to use SQL loop with CREATE TABLE, INSERT and SELECT
 
-[P4k1b.sas](https://github.com/choojun/sas/blob/main/P4k1b.sas)
+[P4k1b.sas](https://github.com/choojun/sas/blob/main/P4k1b.sas) How to use SQL loop with statistic function on targeted variable
 
-[P4k1c.sas](https://github.com/choojun/sas/blob/main/P4k1c.sas)
+[P4k1c.sas](https://github.com/choojun/sas/blob/main/P4k1c.sas) How to use SQL loop with alias and FORMAT
 
-[P4k1d.sas](https://github.com/choojun/sas/blob/main/P4k1d.sas)
+[P4k1d.sas](https://github.com/choojun/sas/blob/main/P4k1d.sas) How to use SQL loop with GROUP BY and ORDER BY
 
-[P4k1e.sas](https://github.com/choojun/sas/blob/main/P4k1e.sas)
+[P4k1e.sas](https://github.com/choojun/sas/blob/main/P4k1e.sas) How to use SQL loop with HAVING and IN
 
-[P4k1f.sas](https://github.com/choojun/sas/blob/main/P4k1f.sas)
+[P4k1f.sas](https://github.com/choojun/sas/blob/main/P4k1f.sas) How to use SQL loop with CREATE TABLE to duplicate another table
 
-[P4k2.sas](https://github.com/choojun/sas/blob/main/P4k2.sas)
+[P4k2.sas](https://github.com/choojun/sas/blob/main/P4k2.sas) How to use SQL loop with UPDATE
 
-[P4k3.sas](https://github.com/choojun/sas/blob/main/P4k3.sas)
+[P4k3.sas](https://github.com/choojun/sas/blob/main/P4k3.sas) How to use SQL loop with DELETE
 
-[P4l.sas](https://github.com/choojun/sas/blob/main/P4l.sas)
+[P4l.sas](https://github.com/choojun/sas/blob/main/P4l.sas) Application of SQL loop 
 
 
 ### Practical 5: Enforcing Decision Making
