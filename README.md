@@ -347,7 +347,7 @@ Note that the non-survey procedures, e.g. PROC FREQ, PROC REG, PROC MEANS and et
 [P8d7.sas](https://github.com/choojun/sas/blob/main/P8d7.sas) How to use PROC REPORT with STYLE, MERGE and REPLACE
 
 
-### Practical 9: Pertaining on Data Transposing and SQL
+### Practical 9: Pertaining on SQL and Data Transposing
 
 [P9a1.sas](https://github.com/choojun/sas/blob/main/P8d1.sas) How to use PROC SQL with SELECT and DESCRIBE
 
