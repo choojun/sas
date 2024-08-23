@@ -100,7 +100,7 @@ We are using SAS programming to facilitate practical learning activities and ach
 
 [P4i2.sas](https://github.com/choojun/sas/blob/main/P4i2.sas) Applicatin of DO-WHILE loop in Factorial calculation
 
-[P4i3.sas](https://github.com/choojun/sas/blob/main/P4i3.sas) How to use DO-UTIL loop
+[P4i3.sas](https://github.com/choojun/sas/blob/main/P4i3.sas) How to use DO-UNTIL loop
 
 [P4j1.sas](https://github.com/choojun/sas/blob/main/P4j1.sas) How to use ARRAY loop with DO loop
 
