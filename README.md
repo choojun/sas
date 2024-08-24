@@ -349,21 +349,28 @@ Note that the non-survey procedures, e.g. PROC FREQ, PROC REG, PROC MEANS and et
 
 ### Practical 9: Pertaining on SQL and Data Transposing
 
-[P9a1.sas](https://github.com/choojun/sas/blob/main/P8d1.sas) How to use PROC SQL with SELECT and DESCRIBE
+[P9a1.sas](https://github.com/choojun/sas/blob/main/P9a1.sas) How to use PROC SQL with SELECT, DESCRIBE, DISTINCT and COUNT
 
-[P9a2.sas](https://github.com/choojun/sas/blob/main/P8d2.sas) How to use PROC SQL with string expression
+[P9a2.sas](https://github.com/choojun/sas/blob/main/P9a2.sas) How to use PROC SQL with SELECT and WHERE
 
-[P9a3.sas](https://github.com/choojun/sas/blob/main/P8d3.sas) How to use PROC SQL with referring a calculated column by alias
+[P9a3.sas](https://github.com/choojun/sas/blob/main/P9a3.sas) How to use PROC SQL with SELECT and WHERE using comparison operators and multiple conditions
 
-[P9a4.sas](https://github.com/choojun/sas/blob/main/P8d4.sas) How to use PROC SQL with CASE and CASE-operand
+[P9a4.sas](https://github.com/choojun/sas/blob/main/P9a4.sas) How to use PROC SQL with SELECT and WHERE using IN operator
 
-[P9a5.sas](https://github.com/choojun/sas/blob/main/P8d5.sas) How to use PROC SQL with and without COALESCE to replace missing values
+[P9a5.sas](https://github.com/choojun/sas/blob/main/P9a5.sas) How to use PROC SQL with SELECT and WHERE using truncated string comparison operator
 
-[P9a6.sas](https://github.com/choojun/sas/blob/main/P8d6.sas) How to use PROC SQL with LABEL, FORMAT and ORDER BY
+[P9a6.sas](https://github.com/choojun/sas/blob/main/P9a6.sas) How to use PROC SQL with SELECT to handle missing value
 
-[P9a7.sas](https://github.com/choojun/sas/blob/main/P8d7.sas) How to use PROC SQL with
+[P9a7.sas](https://github.com/choojun/sas/blob/main/P9a7.sas) How to use PROC SQL with SELECT, WHERE, GROUP BY, HAVING and ORDER BY
 
-[P9a8.sas](https://github.com/choojun/sas/blob/main/P8d7.sas) How to use PROC SQL with
+[P9a8.sas](https://github.com/choojun/sas/blob/main/P9a8.sas) How to use PROC SQL with SELECT and aggregate functions
 
-[P9a9.sas](https://github.com/choojun/sas/blob/main/P8d7.sas) How to use PROC SQL with
+[P9b.sas](https://github.com/choojun/sas/blob/main/P8b.sas) How to use PROC SQL with string expression
 
+[P9c.sas](https://github.com/choojun/sas/blob/main/P8c.sas) How to use PROC SQL with referring a calculated column by alias
+
+[P9d.sas](https://github.com/choojun/sas/blob/main/P8d.sas) How to use PROC SQL with CASE and CASE-operand
+
+[P9e.sas](https://github.com/choojun/sas/blob/main/P8e.sas) How to use PROC SQL with and without COALESCE to replace missing values
+
+[P9f.sas](https://github.com/choojun/sas/blob/main/P8f.sas) How to use PROC SQL with LABEL, FORMAT and ORDER BY
