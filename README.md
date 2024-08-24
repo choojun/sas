@@ -365,12 +365,12 @@ Note that the non-survey procedures, e.g. PROC FREQ, PROC REG, PROC MEANS and et
 
 [P9a8.sas](https://github.com/choojun/sas/blob/main/P9a8.sas) How to use PROC SQL with SELECT and aggregate functions
 
-[P9b.sas](https://github.com/choojun/sas/blob/main/P8b.sas) How to use PROC SQL with string expression
+[P9b1.sas](https://github.com/choojun/sas/blob/main/P9b1.sas) How to use PROC SQL with string expression
 
-[P9c.sas](https://github.com/choojun/sas/blob/main/P8c.sas) How to use PROC SQL with referring a calculated column by alias
+[P9b2.sas](https://github.com/choojun/sas/blob/main/P9b2.sas) How to use PROC SQL with referring a calculated column by alias
 
-[P9d.sas](https://github.com/choojun/sas/blob/main/P8d.sas) How to use PROC SQL with CASE and CASE-operand
+[P9b3.sas](https://github.com/choojun/sas/blob/main/P9b3.sas) How to use PROC SQL with CASE and CASE-operand
 
-[P9e.sas](https://github.com/choojun/sas/blob/main/P8e.sas) How to use PROC SQL with and without COALESCE to replace missing values
+[P9b4.sas](https://github.com/choojun/sas/blob/main/P9b4.sas) How to use PROC SQL with and without COALESCE to replace missing values
 
-[P9f.sas](https://github.com/choojun/sas/blob/main/P8f.sas) How to use PROC SQL with LABEL, FORMAT and ORDER BY
+[P9b5.sas](https://github.com/choojun/sas/blob/main/P9b5.sas) How to use PROC SQL with LABEL, FORMAT and ORDER BY
