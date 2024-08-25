@@ -374,3 +374,24 @@ Note that the non-survey procedures, e.g. PROC FREQ, PROC REG, PROC MEANS and et
 [P9b4.sas](https://github.com/choojun/sas/blob/main/P9b4.sas) How to use PROC SQL with and without COALESCE to replace missing values
 
 [P9b5.sas](https://github.com/choojun/sas/blob/main/P9b5.sas) How to use PROC SQL with LABEL, FORMAT and ORDER BY
+
+[P9c1.sas](https://github.com/choojun/sas/blob/main/P9c1.sas) How to use PROC SQL with inner join, keyword and ORDER BY
+
+[P9c2.sas](https://github.com/choojun/sas/blob/main/P9c2.sas) How to use PROC SQL with inner join and multicolumn joins
+
+[P9c3.sas](https://github.com/choojun/sas/blob/main/P9c3.sas) How to use PROC SQL with inner join and data from multiple tables
+
+[P9c4.sas](https://github.com/choojun/sas/blob/main/P9c4.sas) How to use PROC SQL with inner join and a single table self-joins
+
+[P9c5.sas](https://github.com/choojun/sas/blob/main/P9c5.sas) How to use PROC SQL with left outer join and ORDER BY
+
+[P9c6.sas](https://github.com/choojun/sas/blob/main/P9c6.sas) How to use PROC SQL with right outer join and ORDER BY
+
+[P9c7.sas](https://github.com/choojun/sas/blob/main/P9c7.sas) How to use PROC SQL with full outer join and COALESCE
+
+[P9c8.sas](https://github.com/choojun/sas/blob/main/P9c8.sas) How to use PROC SQL with union join
+
+[P9c9.sas](https://github.com/choojun/sas/blob/main/P9c9.sas) How to use PROC SQL with natural join
+
+
+
