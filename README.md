@@ -365,33 +365,43 @@ Note that the non-survey procedures, e.g. PROC FREQ, PROC REG, PROC MEANS and et
 
 [P9a8.sas](https://github.com/choojun/sas/blob/main/P9a8.sas) How to use PROC SQL with SELECT and aggregate functions
 
-[P9b1.sas](https://github.com/choojun/sas/blob/main/P9b1.sas) How to use PROC SQL with string expression
+[P9b1.sas](https://github.com/choojun/sas/blob/main/P9b1.sas) How to use PROC SQL with SELECT and string expression
 
-[P9b2.sas](https://github.com/choojun/sas/blob/main/P9b2.sas) How to use PROC SQL with referring a calculated column by alias
+[P9b2.sas](https://github.com/choojun/sas/blob/main/P9b2.sas) How to use PROC SQL with SELECT and referring calculated column by alias
 
-[P9b3.sas](https://github.com/choojun/sas/blob/main/P9b3.sas) How to use PROC SQL with CASE and CASE-operand
+[P9b3.sas](https://github.com/choojun/sas/blob/main/P9b3.sas) How to use PROC SQL with SELECT, CASE and CASE-operand
 
-[P9b4.sas](https://github.com/choojun/sas/blob/main/P9b4.sas) How to use PROC SQL with and without COALESCE to replace missing values
+[P9b4.sas](https://github.com/choojun/sas/blob/main/P9b4.sas) How to use PROC SQL with SELECT and with & without COALESCE to replace missing values
 
-[P9b5.sas](https://github.com/choojun/sas/blob/main/P9b5.sas) How to use PROC SQL with LABEL, FORMAT and ORDER BY
+[P9b5.sas](https://github.com/choojun/sas/blob/main/P9b5.sas) How to use PROC SQL with SELECT, LABEL, FORMAT and ORDER BY
 
-[P9c1.sas](https://github.com/choojun/sas/blob/main/P9c1.sas) How to use PROC SQL with inner join, keyword and ORDER BY
+[P9c1.sas](https://github.com/choojun/sas/blob/main/P9c1.sas) How to use PROC SQL with SELECT, inner join, keyword and ORDER BY
 
-[P9c2.sas](https://github.com/choojun/sas/blob/main/P9c2.sas) How to use PROC SQL with inner join and multicolumn joins
+[P9c2.sas](https://github.com/choojun/sas/blob/main/P9c2.sas) How to use PROC SQL with SELECT, inner join and multicolumn joins
 
-[P9c3.sas](https://github.com/choojun/sas/blob/main/P9c3.sas) How to use PROC SQL with inner join and data from multiple tables
+[P9c3.sas](https://github.com/choojun/sas/blob/main/P9c3.sas) How to use PROC SQL with SELECT, inner join and data from multiple tables
 
-[P9c4.sas](https://github.com/choojun/sas/blob/main/P9c4.sas) How to use PROC SQL with inner join and a single table self-joins
+[P9c4.sas](https://github.com/choojun/sas/blob/main/P9c4.sas) How to use PROC SQL with SELECT, inner join and a single table self-joins
 
-[P9c5.sas](https://github.com/choojun/sas/blob/main/P9c5.sas) How to use PROC SQL with left outer join and ORDER BY
+[P9c5.sas](https://github.com/choojun/sas/blob/main/P9c5.sas) How to use PROC SQL with SELECT, left outer join and ORDER BY
 
-[P9c6.sas](https://github.com/choojun/sas/blob/main/P9c6.sas) How to use PROC SQL with right outer join and ORDER BY
+[P9c6.sas](https://github.com/choojun/sas/blob/main/P9c6.sas) How to use PROC SQL with SELECT, right outer join and ORDER BY
 
-[P9c7.sas](https://github.com/choojun/sas/blob/main/P9c7.sas) How to use PROC SQL with full outer join and COALESCE
+[P9c7.sas](https://github.com/choojun/sas/blob/main/P9c7.sas) How to use PROC SQL with SELECT, full outer join and COALESCE
 
-[P9c8.sas](https://github.com/choojun/sas/blob/main/P9c8.sas) How to use PROC SQL with union join
+[P9c8.sas](https://github.com/choojun/sas/blob/main/P9c8.sas) How to use PROC SQL with SELECT and union join
 
-[P9c9.sas](https://github.com/choojun/sas/blob/main/P9c9.sas) How to use PROC SQL with natural join
+[P9c9.sas](https://github.com/choojun/sas/blob/main/P9c9.sas) How to use PROC SQL with SELECT and natural join
 
+[P9d1.sas](https://github.com/choojun/sas/blob/main/P9d1.sas) How to use PROC SQL with SELECT and single-value subqueries
 
+[P9d2.sas](https://github.com/choojun/sas/blob/main/P9d2.sas) How to use PROC SQL with SELECT and multiple-value subqueries
+
+[P9d3.sas](https://github.com/choojun/sas/blob/main/P9d3.sas) How to use PROC SQL with SELECT and correlated subqueries
+
+[P9d4.sas](https://github.com/choojun/sas/blob/main/P9d4.sas) How to use PROC SQL with SELECT and EXISTS
+
+[P9d5.sas](https://github.com/choojun/sas/blob/main/P9d5.sas) How to use PROC SQL with SELECT and nested subqueries
+
+[P9d6.sas](https://github.com/choojun/sas/blob/main/P9d6.sas) How to use PROC SQL with SELECT and combining join and subquery
 
