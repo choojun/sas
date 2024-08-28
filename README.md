@@ -405,3 +405,13 @@ Note that the non-survey procedures, e.g. PROC FREQ, PROC REG, PROC MEANS and et
 
 [P9d6.sas](https://github.com/choojun/sas/blob/main/P9d6.sas) How to use PROC SQL with SELECT and combining join and subquery
 
+[P9e1.sas](https://github.com/choojun/sas/blob/main/P9e1.sas) How to use PROC SQL with CREATE and DESCRIBE
+
+[P9e2.sas](https://github.com/choojun/sas/blob/main/P9e2.sas) How to use PROC SQL with CREATE to create similar an existing table
+
+[P9f.sas](https://github.com/choojun/sas/blob/main/P9f.sas) How to use PROC SQL with INSERT
+
+[P9g.sas](https://github.com/choojun/sas/blob/main/P9g.sas) How to use PROC SQL with UPDATE
+
+
+
