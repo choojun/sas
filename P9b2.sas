@@ -13,9 +13,9 @@ proc sql; *outobs=12;
 	
    	select City, 
    		(AvgHigh - 32) * 5/9 as HighCelsius format=5.1, 
-    	(AvgLow - 32) * 5/9 as LowCelsius format=5.1,
-        (calculated HighCelsius - calculated LowCelsius)
-        	as Range format=4.1
-    from myLib.worldtemps;
+    		(AvgLow - 32) * 5/9 as LowCelsius format=5.1,
+        	(calculated HighCelsius - calculated LowCelsius)
+        		as Range format=4.1
+    	from myLib.worldtemps;
 run;
 quit;
