@@ -12,16 +12,16 @@ proc sql; *outobs=12;
 
 	/* with multicolumn joins */
 	select Capital format=$12., Name format=$12.,
-          	City format=$12., Country format=$12., 
-          	Latitude, Longitude
+          		City format=$12., Country format=$12., 
+          		Latitude, Longitude
 		from myLib.countries, myLib.worldcitycoords
-      	where Capital like 'L%' and Capital = City;
+      		where Capital like 'L%' and Capital = City;
 	select Capital format=$12., Name format=$12.,
-          	City format=$12., Country format=$12., 
-          	latitude, longitude
-      	from myLib.countries, myLib.worldcitycoords
-      	where Capital like 'L%' and Capital = City
-      	and Name = Country;
+          		City format=$12., Country format=$12., 
+          		latitude, longitude
+      		from myLib.countries, myLib.worldcitycoords
+      		where Capital like 'L%' and Capital = City
+      			and Name = Country;
       	
 run;
 quit;
