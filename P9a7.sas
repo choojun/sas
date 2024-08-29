@@ -25,12 +25,12 @@ proc sql; *outobs=12;
    		having Continent in ('Asia', 'Europe')
    		order by Continent;
    	*select Continent, sum(Population) as TotalPopulation format=comma16.,
-        count(*) as Count from myLib.countries
-      	group by Continent
-      	having count(*) gt 15 order by Continent;
+        	count(*) as Count from myLib.countries
+      		group by Continent
+      		having count(*) gt 15 order by Continent;
    	*select Location, Type, sum(Area) as TotalArea format=comma16.
-      	from myLib.features where type in ('Desert', 'Lake')
-      	group by Location, Type;
+      		from myLib.features where type in ('Desert', 'Lake')
+      		group by Location, Type;
    		
    		
    	/* Observe the sequence of constructing SELECT statement:
