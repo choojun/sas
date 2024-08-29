@@ -413,5 +413,5 @@ Note that the non-survey procedures, e.g. PROC FREQ, PROC REG, PROC MEANS and et
 
 [P9g.sas](https://github.com/choojun/sas/blob/main/P9g.sas) How to use PROC SQL with UPDATE
 
-
+[P9i.sas](https://github.com/choojun/sas/blob/main/P9i.sas) How to use PROC SQL with ALTER
 
