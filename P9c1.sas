@@ -12,15 +12,15 @@ proc sql; *outobs=12;
 
 	/* with inner join, keyword and ORDER BY */
 	select * from myLib.oilprod as p, myLib.oilrsrvs as r
-    	where p.country = r.country;
+    		where p.country = r.country;
 	select p.country, barrelsperday 'Production', barrels 'Reserves'
-      	from myLib.oilprod p, myLib.oilrsrvs r
-      	where p.country = r.country order by barrelsperday desc;
+      		from myLib.oilprod p, myLib.oilrsrvs r
+      		where p.country = r.country order by barrelsperday desc;
       	
-    /* with comparison operator */
-    select us.City, us.State, us.Latitude, world.city, world.latitude
-      	from myLib.worldcitycoords world, myLib.uscitycoords us
-      	where world.city = 'Cairo' and us.latitude lt world.latitude;
+    	/* with comparison operator */
+    	select us.City, us.State, us.Latitude, world.city, world.latitude
+      		from myLib.worldcitycoords world, myLib.uscitycoords us
+      		where world.city = 'Cairo' and us.latitude lt world.latitude;
       	
 run;
 quit;
