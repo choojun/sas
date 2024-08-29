@@ -415,3 +415,13 @@ Note that the non-survey procedures, e.g. PROC FREQ, PROC REG, PROC MEANS and et
 
 [P9i.sas](https://github.com/choojun/sas/blob/main/P9i.sas) How to use PROC SQL with ALTER
 
+[P9j1.sas](https://github.com/choojun/sas/blob/main/P9j1.sas) How to use PROC TRANSPOSE with simple transposition
+
+[P9j2.sas](https://github.com/choojun/sas/blob/main/P9j2.sas) How to use PROC TRANSPOSE with naming transposed variables
+
+[P9j3.sas](https://github.com/choojun/sas/blob/main/P9j3.sas) How to use PROC TRANSPOSE with labelling transposed variables
+
+[P9j4.sas](https://github.com/choojun/sas/blob/main/P9j4.sas) How to use PROC TRANSPOSE with transposing by groups
+
+[P9j5.sas](https://github.com/choojun/sas/blob/main/P9j5.sas) How to use PROC TRANSPOSE with variable having duplicate values
+
