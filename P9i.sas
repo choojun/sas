@@ -11,38 +11,38 @@ filename trans '/home/u63487999/SQLDatasetsV9/*.sas7bdat';
 proc sql; 
 
 	create table myCountries
-      	like myLib.countries;
-    *describe table myCountries;
-    insert into myCountries
+      		like myLib.countries;
+    	*describe table myCountries;
+    	insert into myCountries
    		select * from myLib.countries where population ge 130000000;
 	select * from myCountries;
 	
 	
 	*alter table myCountries
-      add density num label='Population Density' format=6.2;
-    *describe table myCountries;
+		add density num label='Population Density' format=6.2;
+	*describe table myCountries;
 	*select * from myCountries;
     
     
-    *update myCountries
-    	set density = population/area;
-    *select * from myCountries;
+    	*update myCountries
+    		set density = population/area;
+    	*select * from myCountries;
 
 
 	*alter table myCountries
-      	modify population format=comma15.;
+      		modify population format=comma15.;
 	*select * from myCountries;
 	
 	
 	*alter table myCountries
-      	modify name char(60) format=$60.;
+      		modify name char(60) format=$60.;
    	*update myCountries
-      	set name='The WTO and the IMF has plenty members of country '||name;
+      		set name='The WTO and the IMF has plenty members of country '||name;
 	*select * from myCountries;
 	
 	
 	*alter table myCountries
-      	drop undate;
-    *select * from myCountries;
+      		drop undate;
+    	*select * from myCountries;
 run;
 quit;
