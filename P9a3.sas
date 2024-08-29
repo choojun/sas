@@ -11,16 +11,16 @@ filename trans '/home/u63487999/SQLDatasetsV9/*.sas7bdat';
 proc sql; *outobs=12;
 	title 'My Table';
 
-    /* = EQ  		equal to 
-    ^= -= <> NE 	not equal to
-    > GT			greater than
-    < LT			less than
+    	/* = EQ  		equal to 
+    	^= -= <> NE 	not equal to
+    	> GT			greater than
+    	< LT			less than
 	>= GE			greater than or equal to
 	<= LE			less than or equal to
 	& AND
 	! | OR
 	^ - NOT
-    */
+    	*/
 	select Name, Continent, Population from myLib.countries
 		where Continent eq 'Africa' and Population gt 5000000;
 	*select Name, Continent, Population from myLib.countries
