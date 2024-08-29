@@ -1,8 +1,8 @@
 data fishData;
    infile datalines missover;
    input Location & $15. Date date7.
-         Length1 Weight1 Length2 Weight2 Length3 Weight3
-         Length4 Weight4;
+         Length1 Weight1 Length2 Weight2 
+	 Length3 Weight3 Length4 Weight4;
    format date date7.;
    datalines;
 Gelugor Lake   2JUN95 31 .25 32 .3  32 .25 33 .3
