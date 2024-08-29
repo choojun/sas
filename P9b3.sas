@@ -20,8 +20,8 @@ proc sql; *outobs=12;
         end as ClimateZone
 	from myLib.worldcitycoords order by City;
       	
-   *title 'Assigning Regions to Continents';
-   *select Name, Continent,
+   	*title 'Assigning Regions to Continents';
+   	*select Name, Continent,
         case Continent
              when 'North America' then 'Continental U.S.'
              when 'Oceania' then 'Pacific Islands' 
