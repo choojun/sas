@@ -14,8 +14,8 @@ proc print data=score noobs;
 run;
 
 proc transpose data=score out=idnumber name=Test
-     prefix=TARUMT;
-    id studentid;
+   prefix=TARUMT;
+   id studentid;
 run;
 
 proc print data=idnumber noobs;
