@@ -13,9 +13,9 @@ proc sql; *outobs=12;
 	
    	*select 'The country', Name, 
    		'is located at', Continent
-      	from myLib.countries;
-    select 'The country', Name label='#', 
-    	'is located at', Continent label='#'
-      	from myLib.countries;
+      		from myLib.countries;
+    	select 'The country', Name label='#', 
+    		'is located at', Continent label='#'
+      		from myLib.countries;
 run;
 quit;
