@@ -15,9 +15,9 @@ proc sql; *outobs=12;
 		
 	select Name, 
 		case
-    		when LowPoint is missing then 'Not Available'
-            else Lowpoint
-        end as LowPoint
-    from myLib.continents;  
+    			when LowPoint is missing then 'Not Available'
+            		else Lowpoint
+        	end as LowPoint
+    	from myLib.continents;  
 run;
 quit;
