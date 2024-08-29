@@ -16,18 +16,18 @@ proc sql; *outobs=12;
 	*select Name, Continent, Population from myLib.countries
 		where Continent is not missing;
    	*select Name, Continent, Population from myLib.countries
-      	where Continent is missing;
-    *select Name, Continent, Population from myLib.countries
-      	where Continent is null;
+      		where Continent is missing;
+    	*select Name, Continent, Population from myLib.countries
+      		where Continent is null;
     
-    /* Watch out the missing value */
-    *select Name, Length from myLib.features
-      	where Name in ('Angel Falls', 'Amazon', 'Nile');
-    *select Name, Length, avg(Length) as AvgLength from myLib.features
-      	where Name in ('Angel Falls', 'Amazon', 'Nile');
-    *select Name, Length, coalesce(Length, 0) as NewLength, 
-        avg(calculated NewLength) as AvgLength 
-        from myLib.features where Name in ('Angel Falls', 'Amazon', 'Nile');
+    	/* Watch out the missing value */
+    	*select Name, Length from myLib.features
+      		where Name in ('Angel Falls', 'Amazon', 'Nile');
+    	*select Name, Length, avg(Length) as AvgLength from myLib.features
+      		where Name in ('Angel Falls', 'Amazon', 'Nile');
+    	*select Name, Length, coalesce(Length, 0) as NewLength, 
+        	avg(calculated NewLength) as AvgLength 
+        	from myLib.features where Name in ('Angel Falls', 'Amazon', 'Nile');
      
    		
    	/* Observe the sequence of constructing SELECT statement:
