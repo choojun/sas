@@ -11,9 +11,9 @@ filename trans '/home/u63487999/SQLDatasetsV9/*.sas7bdat';
 proc sql; 
 
 	create table myCountries
-      	like myLib.countries;
-    *describe table myCountries;
-    insert into myCountries
+      		like myLib.countries;
+        *describe table myCountries;
+        insert into myCountries
    		select * from myLib.countries where population ge 130000000;
 	select * from myCountries;
 	
