@@ -15,12 +15,12 @@ run;
 
 proc transpose data=score out=idlabel name=Test
 	prefix=sn;
-   	id studentid;
-    idlabel student;
+	id studentid;
+	idlabel student;
 run;
 
 proc print data=idlabel label noobs;
-     title 'Student Test Scores';
+	title 'Student Test Scores';
 run;
   
 *proc contents data=idlabel;
