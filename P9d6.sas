@@ -15,17 +15,17 @@ proc sql; *outobs=12;
         b.City format=$10. 'To City', b.State 'To State',
         b.Latitude 'Latitude', b.Longitude 'Longitude',
         	sqrt(((b.latitude-a.latitude)**2) +
-            	((b.longitude-a.longitude)**2)) as Distance format=6.1
+            		((b.longitude-a.longitude)**2)) as Distance format=6.1
       	from myLib.uscitycoords a, myLib.uscitycoords b
       	where a.city ne b.city and
         	calculated Distance =
-            (select min(sqrt(((d.latitude-c.latitude)**2) +
+            	(select min(sqrt(((d.latitude-c.latitude)**2) +
                              ((d.longitude-c.longitude)**2)))
             	from myLib.uscitycoords c, myLib.uscitycoords d
                 where c.city = a.city and 
-                	  c.state = a.state and
-                      d.city ne c.city)
-            order by a.city;
+        		c.state = a.state and
+        		d.city ne c.city)
+	order by a.city;
             	
 run;
 quit;
