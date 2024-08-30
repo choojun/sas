@@ -30,13 +30,13 @@ We are using SAS programming to facilitate practical learning activities and ach
 
 ### Practical 2
 
-[P2a.sas](https://github.com/choojun/sas/blob/main/P2a.sas) 
+[P2a.sas](https://github.com/choojun/sas/blob/main/P2a.sas) How to use PROC DATASETS to DELETE a temporary dataset
 
-[P2b.sas](https://github.com/choojun/sas/blob/main/P2b.sas) 
+[P2b.sas](https://github.com/choojun/sas/blob/main/P2b.sas) How to use PROC IMPORT to create a temporary dataset with TXT
 
-[P2c.sas](https://github.com/choojun/sas/blob/main/P2c.sas) 
+[P2c.sas](https://github.com/choojun/sas/blob/main/P2c.sas) How to use PROC IMPORT to create a temporary dataset with CSV
 
-[P2d.sas](https://github.com/choojun/sas/blob/main/P2d.sas) 
+[P2d.sas](https://github.com/choojun/sas/blob/main/P2d.sas) How to use PROC IMPORT to create a temporary dataset with XLSX
 
 
 ### Practical 3
