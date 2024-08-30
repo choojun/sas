@@ -7,27 +7,25 @@ We are using SAS programming to facilitate practical learning activities and ach
 
 ### Practical 1
 
-[P1a.sas](https://github.com/choojun/sas/blob/main/P1a.sas) Convert from Farenheit to Celsius 
+[P1a.sas](https://github.com/choojun/sas/blob/main/P1a.sas) Application of converting from Farenheit to Celsius 
 
-[P1b.sas](https://github.com/choojun/sas/blob/main/P1b.sas) 
+[P1b.sas](https://github.com/choojun/sas/blob/main/P1b.sas) How to create a temporary dataset with missing values
 
-[P1c1.sas](https://github.com/choojun/sas/blob/main/P1c1.sas) 
+[P1c1.sas](https://github.com/choojun/sas/blob/main/P1c1.sas) How to duplicate temporary dataset from permanent dataset
 
-[P1c2.sas](https://github.com/choojun/sas/blob/main/P1c2.sas) 
+[P1c2.sas](https://github.com/choojun/sas/blob/main/P1c2.sas) How to use FIRSTOBS and OBS options
 
-[P1c3.sas](https://github.com/choojun/sas/blob/main/P1c3.sas) 
+[P1c3.sas](https://github.com/choojun/sas/blob/main/P1c3.sas) How to use PROC PRINT with TITLE
 
-[P1d1.sas](https://github.com/choojun/sas/blob/main/P1d1.sas) 
+[P1d1.sas](https://github.com/choojun/sas/blob/main/P1d1.sas) How to create temporary dataset with character and numeric variables
 
-[P1d2.sas](https://github.com/choojun/sas/blob/main/P1d2.sas) 
+[P1d2.sas](https://github.com/choojun/sas/blob/main/P1d2.sas) How to use PROC DATASETS to delete temporary dataset
 
-[P1d3.sas](https://github.com/choojun/sas/blob/main/P1d3.sas) 
+[P1d3.sas](https://github.com/choojun/sas/blob/main/P1d3.sas) How to use PROC DATASETS to rename temporary dataset
 
-[P1e.sas](https://github.com/choojun/sas/blob/main/P1e.sas) 
+[P1e.sas](https://github.com/choojun/sas/blob/main/P1e.sas) How to use MONTH function
 
-[P1f.sas](https://github.com/choojun/sas/blob/main/P1f.sas) 
-
-[P1g.sas](https://github.com/choojun/sas/blob/main/P1g.sas) 
+[P1f.sas](https://github.com/choojun/sas/blob/main/P1f.sas) How to manipulate with special character
 
 
 ### Practical 2
