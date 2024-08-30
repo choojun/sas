@@ -38,6 +38,8 @@ We are using SAS programming to facilitate practical learning activities and ach
 
 [P2d.sas](https://github.com/choojun/sas/blob/main/P2d.sas) How to use PROC IMPORT to create a temporary dataset with XLSX
 
+[P2e.sas](https://github.com/choojun/sas/blob/main/P2e.sas) How to PROC PRINT with STYLE
+
 
 ### Practical 3
 
