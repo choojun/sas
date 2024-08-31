@@ -28,9 +28,6 @@ Swift          M Wed  63 Wolfson        F Fri  79
 Wong           F Fri  89 Zabriski       M Fri  89
 ;
 
-/* https://documentation.sas.com/doc/en/pgmsascdc/9.4_3.5/basess/p1txwzkzykovp0n1q0y93wt77uje.htm
-*/
-
 proc univariate data=grades noprint;
    *histogram ExamGrade1;
    *histogram Examgrade1 / vminor=4 grid lgrid=34;
@@ -40,11 +37,9 @@ proc univariate data=grades noprint;
    
    /*to specify ranges with midpoints from 55 to 95*/
    histogram Examgrade1 / vscale=count vaxis=0 to 16 by 2 vminor=1  
-                          midpoints=55 65 75 85 95 hoffset=10
+                          midpoints=35 45 55 65 75 85 95 hoffset=10
                           vaxislabel='Frequency';
    inset n='No. Students' mean='Mean Grade' min='Lowest Grade' 
          max='Highest Grade' / header='Summary Statistics' position=ne format=3.;
    title 'Grades for Exam';
 run;
-
-
