@@ -16,3 +16,8 @@ ods graphics on;
 proc boxplot data=TotalScores;
    plot total*Type / boxstyle=schematic noserifs;
 run;
+
+proc sgplot data=TotalScores;
+  vbox total / category=Type;
+  *hbox total / category=Type;
+run;
