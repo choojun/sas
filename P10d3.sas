@@ -28,20 +28,18 @@ Swift          M Wed  63 Wolfson        F Fri  79
 Wong           F Fri  89 Zabriski       M Fri  89
 ;
 
-
-
-proc format;
-   value $gendfmt 'M'='Male'
-                  'F'='Female'; 
-run;
-                                  
 proc univariate data=grades noprint;
-   class Gender Section(order=data);
-   histogram Examgrade1 / midpoints=45 to 95 by 10 vscale=count vaxis=0 to 6 by 2 
-                          vaxislabel='Frequency' turnvlabels nrows=2 ncols=3  
-                          cframe=ligr cframeside=gwh cframetop=gwh cfill=gwh; 
-   inset mean(4.1) n / noframe position=(2,65); 
-   format Gender $gendfmt.; 
-   title 'Grade Distribution for the First Chemistry Exam';
+   *histogram ExamGrade1;
+   *histogram Examgrade1 / vminor=4 grid lgrid=34;
+   *histogram Examgrade1 / vscale=count vaxis=0 to 16 by 2 vminor=1;
+   *histogram Examgrade1 / vscale=percent vaxis=0 to 50 by 2 vminor=1;
+   *histogram Examgrade1 / vscale=proportion vaxis=0 to 1 by 2 vminor=1;
+   
+   /*to specify ranges with midpoints from 55 to 95*/
+   histogram Examgrade1 / vscale=count vaxis=0 to 16 by 2 vminor=1  
+                          midpoints=35 45 55 65 75 85 95 hoffset=10
+                          vaxislabel='Frequency';
+   inset n='No. Students' mean='Mean Grade' min='Lowest Grade' 
+         max='Highest Grade' / header='Summary Statistics' position=ne format=3.;
+   title 'Grades for Exam';
 run;
-
