@@ -39,3 +39,8 @@ proc chart data = grades;
 		/* try: cfreq cpercent freq mean percent */
 	title 'Gender for Exam';
 run;
+
+proc chart data = grades;
+	pie ExamGrade1 / type=sum sumvar=Examgrade1;
+	title 'Grades for Exam';
+run;
