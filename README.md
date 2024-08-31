@@ -426,7 +426,7 @@ Note that the non-survey procedures, e.g. PROC FREQ, PROC REG, PROC MEANS and et
 [P9j5.sas](https://github.com/choojun/sas/blob/main/P9j5.sas) How to use PROC TRANSPOSE with variable having duplicate values
 
 
-### Practical 10
+### Practical 10: Information Visualisation using Charts
 
 [P10a1.sas](https://github.com/choojun/sas/blob/main/P10a1.sas) How to use PROC BOXPLOT and PROC SGPLOT with VBOX-HBOX to create boxplot chart
 
@@ -468,7 +468,7 @@ Note that the non-survey procedures, e.g. PROC FREQ, PROC REG, PROC MEANS and et
 
 
 
-### Practical 12
+### Practical 12: Tackling Problems with SAS Programming
 
 [P12a1.sas](https://github.com/choojun/sas/blob/main/P12a1.sas) How to resolve knapsack problem with genetic algorithm
 
