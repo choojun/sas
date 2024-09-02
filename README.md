@@ -464,6 +464,19 @@ Note that the non-survey procedures, e.g. PROC FREQ, PROC REG, PROC MEANS and et
 
 [P10e1.sas](https://github.com/choojun/sas/blob/main/P10e1.sas) How to use PROC SGPLOT to create bar-line chart
 
+[P10f1.sas](https://github.com/choojun/sas/blob/main/P10f1.sas) How to use PROC CAPABILITY with Q-Q plot to identify data distribution
+
+[P10f2.sas](https://github.com/choojun/sas/blob/main/P10f2.sas) How to use PROC CAPABILITY with Q-Q plot to interpret normal and to estimate non-normal data with a distribution reference line
+
+[P10g1.sas](https://github.com/choojun/sas/blob/main/P10g1.sas) How to use PROC CAPABILITY to create a cumulative distribution plot
+
+[P10g1.sas](https://github.com/choojun/sas/blob/main/P10g1.sas) How to use PROC CAPABILITY to create a cumulative distribution plot
+
+[P10g2.sas](https://github.com/choojun/sas/blob/main/P10g2.sas) How to use PROC CAPABILITY to create a cumulative distribution plot with fitting a normal distribution
+
+[P10g3.sas](https://github.com/choojun/sas/blob/main/P10g3.sas) How to use PROC CAPABILITY to create a cumulative distribution plot with reference lines
+
+
 
 
 ### Practical 11
