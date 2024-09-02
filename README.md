@@ -492,7 +492,7 @@ Note that the non-survey procedures, e.g. PROC FREQ, PROC REG, PROC MEANS and et
 
 
 
-### Practical 11
+### Practical 11: Visualizing Geospatial Data and Time Series Data
 
 
 
