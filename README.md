@@ -5,7 +5,7 @@ We are using SAS programming to facilitate practical learning activities and ach
 * to enable our learners to **communicate information effectively** to their viewers using the SAS-based platform as a visualization tool, and
 * to empower learners to create insightful data visualizations that address specific **research questions**.
 
-### Practical 1
+### Practical 1: What can my first SAS Program do?
 
 [P1a.sas](https://github.com/choojun/sas/blob/main/P1a.sas) Application of converting from Farenheit to Celsius 
 
