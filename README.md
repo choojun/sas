@@ -428,9 +428,9 @@ Note that the non-survey procedures, e.g. PROC FREQ, PROC REG, PROC MEANS and et
 
 ### Practical 10: Information Visualisation using Charts
 
-[P10a1.sas](https://github.com/choojun/sas/blob/main/P10a1.sas) How to use PROC BOXPLOT and PROC SGPLOT with VBOX-HBOX to create boxplot
+[P10a1.sas](https://github.com/choojun/sas/blob/main/P10a1.sas) How to use PROC BOXPLOT and PROC SGPLOT with VBOX-HBOX to create [boxplot](https://en.wikipedia.org/wiki/Box_plot)
 
-[P10a2.sas](https://github.com/choojun/sas/blob/main/P10a2.sas) How to use PROC SGPANEL with VBOX-HBOX to create comparative panel with boxplots 
+[P10a2.sas](https://github.com/choojun/sas/blob/main/P10a2.sas) How to use PROC SGPANEL with VBOX-HBOX to create comparative panel with [boxplots](https://en.wikipedia.org/wiki/Box_plot) 
 
 [P10b1.sas](https://github.com/choojun/sas/blob/main/P10b1.sas) How to use PROC CHART to create pie chart
 
