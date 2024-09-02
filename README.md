@@ -478,7 +478,7 @@ Note that the non-survey procedures, e.g. PROC FREQ, PROC REG, PROC MEANS and et
 
 [P10f3.sas](https://github.com/choojun/sas/blob/main/P10f3.sas) How to use PROC UNIVARIATE with [P-P plot](https://en.wikipedia.org/wiki/P%E2%80%93P_plot)
 
-[P10g1.sas](https://github.com/choojun/sas/blob/main/P10g1.sas) How to use PROC CAPABILITY to create a cumulative distribution plot
+[P10g1.sas](https://github.com/choojun/sas/blob/main/P10g1.sas) How to use PROC CAPABILITY to create a [cumulative distribution](https://en.wikipedia.org/wiki/Cumulative_distribution_function) plot
 
 [P10g1.sas](https://github.com/choojun/sas/blob/main/P10g1.sas) How to use PROC CAPABILITY to create a cumulative distribution plot
 
