@@ -430,7 +430,7 @@ Note that the non-survey procedures, e.g. PROC FREQ, PROC REG, PROC MEANS and et
 
 [P10a1.sas](https://github.com/choojun/sas/blob/main/P10a1.sas) How to use PROC BOXPLOT and PROC SGPLOT with VBOX-HBOX to create boxplot
 
-[P10a2.sas](https://github.com/choojun/sas/blob/main/P10a2.sas) How to use PROC SGPANEL with VBOX-HBOX to create comparative panel with boxplot 
+[P10a2.sas](https://github.com/choojun/sas/blob/main/P10a2.sas) How to use PROC SGPANEL with VBOX-HBOX to create comparative panel with boxplots 
 
 [P10b1.sas](https://github.com/choojun/sas/blob/main/P10b1.sas) How to use PROC CHART to create pie chart
 
@@ -468,7 +468,9 @@ Note that the non-survey procedures, e.g. PROC FREQ, PROC REG, PROC MEANS and et
 
 [P10e2.sas](https://github.com/choojun/sas/blob/main/P10e2.sas) How to use PROC SGPLOT to create bar-line chart
 
-[P10e3.sas](https://github.com/choojun/sas/blob/main/P10e3.sas) How to use PROC SGPANEL to create comparative panel with bar chart
+[P10e3.sas](https://github.com/choojun/sas/blob/main/P10e3.sas) How to use PROC SGPANEL to create comparative panel with bar charts
+
+[P10e4.sas](https://github.com/choojun/sas/blob/main/P10e4.sas) How to use PROC SGPANEL to create comparative panel with line charts
 
 [P10f1.sas](https://github.com/choojun/sas/blob/main/P10f1.sas) How to use PROC CAPABILITY with Q-Q plot to identify data distribution
 
