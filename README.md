@@ -495,7 +495,7 @@ Note that data storytelling can help turn data insights into research action. Wi
 
 [P12a1.sas](https://github.com/choojun/sas/blob/main/P12a1.sas) How to resolve [knapsack problem](https://en.wikipedia.org/wiki/Knapsack_problem) with [genetic algorithm](https://en.wikipedia.org/wiki/Genetic_algorithm)
 
-Genetic algorithms are a computational technique based on natural selection. They use biological concepts like genes, chromosomes, and natural selection to create and improve solutions to optimisation problems.
+Genetic algorithms are a computational technique, which is a metaheuristic inspired by the process of natural selection that belongs to the larger class of [evolutionary algorithms](https://en.wikipedia.org/wiki/Evolutionary_algorithm). They use biological concepts like genes, chromosomes, and fitness to create and improve solutions to optimisation problems.
 
 [P12b1.sas](https://github.com/choojun/sas/blob/main/P12b1.sas) How to perform [bilinear interpolation](https://en.wikipedia.org/wiki/Bilinear_interpolation)
 
