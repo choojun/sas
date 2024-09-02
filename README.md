@@ -458,6 +458,8 @@ Note that the non-survey procedures, e.g. PROC FREQ, PROC REG, PROC MEANS and et
 
 [P10d3.sas](https://github.com/choojun/sas/blob/main/P10d3.sas) How to use PROC UNIVARIATE and PROC FORMAT to create histogram
 
+[P10d4.sas](https://github.com/choojun/sas/blob/main/P10d4.sas) How to use PROC CAPABILITY to create histogram
+
 [P10e1.sas](https://github.com/choojun/sas/blob/main/P10e1.sas) How to use PROC SGPLOT to create bar chart
 
 [P10e1.sas](https://github.com/choojun/sas/blob/main/P10e1.sas) How to use PROC SGPLOT to create bar-line chart
