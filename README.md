@@ -468,7 +468,7 @@ Note that the non-survey procedures, e.g. PROC FREQ, PROC REG, PROC MEANS and et
 
 
 
-### Practical 12: Tackling Problems with SAS Programming
+### Practical 12: Tackling Problems with Data Storytelling and SAS
 
 [P12a1.sas](https://github.com/choojun/sas/blob/main/P12a1.sas) How to resolve knapsack problem with genetic algorithm
 
