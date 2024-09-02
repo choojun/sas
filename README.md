@@ -428,29 +428,31 @@ Note that the non-survey procedures, e.g. PROC FREQ, PROC REG, PROC MEANS and et
 
 ### Practical 10: Information Visualisation using Charts
 
-[P10a1.sas](https://github.com/choojun/sas/blob/main/P10a1.sas) How to use PROC BOXPLOT and PROC SGPLOT with VBOX-HBOX to create boxplot chart
+[P10a1.sas](https://github.com/choojun/sas/blob/main/P10a1.sas) How to use PROC BOXPLOT and PROC SGPLOT with VBOX-HBOX to create boxplot
 
-[P10a2.sas](https://github.com/choojun/sas/blob/main/P10a2.sas) How to use PROC SGPANEL with VBOX-HBOX to create boxplot chart
+[P10a2.sas](https://github.com/choojun/sas/blob/main/P10a2.sas) How to use PROC SGPANEL with VBOX-HBOX to create comparative panel with boxplot 
 
 [P10b1.sas](https://github.com/choojun/sas/blob/main/P10b1.sas) How to use PROC CHART to create pie chart
 
 [P10b2.sas](https://github.com/choojun/sas/blob/main/P10b2.sas) How to use PROC TEMPLATE and PROC SGRENDER to create pie chart
 
-[P10c1.sas](https://github.com/choojun/sas/blob/main/P10c1.sas) How to use PROC PLOT to create scatter chart
+[P10c1.sas](https://github.com/choojun/sas/blob/main/P10c1.sas) How to use PROC PLOT to create scatter plot
 
-[P10c2.sas](https://github.com/choojun/sas/blob/main/P10c2.sas) How to use PROC TEMPLATE and PROC SGRENDER to create discrete-based scatter chart
+[P10c2.sas](https://github.com/choojun/sas/blob/main/P10c2.sas) How to use PROC TEMPLATE and PROC SGRENDER to create discrete-based scatter plot
 
-[P10c3.sas](https://github.com/choojun/sas/blob/main/P10c3.sas) How to use PROC TEMPLATE and PROC SGRENDER to create grouped discrete-based scatter chart
+[P10c3.sas](https://github.com/choojun/sas/blob/main/P10c3.sas) How to use PROC TEMPLATE and PROC SGRENDER to create grouped discrete-based scatter plot
 
-[P10c4.sas](https://github.com/choojun/sas/blob/main/P10c4.sas) How to use PROC TEMPLATE and PROC SGRENDER to create dot plot discrete-based scatter chart
+[P10c4.sas](https://github.com/choojun/sas/blob/main/P10c4.sas) How to use PROC TEMPLATE and PROC SGRENDER to create dot plot discrete-based scatter plot
 
-[P10c5.sas](https://github.com/choojun/sas/blob/main/P10c5.sas) How to use PROC SGSCATTER to create scatter chart
+[P10c5.sas](https://github.com/choojun/sas/blob/main/P10c5.sas) How to use PROC SGSCATTER to create scatter plot
 
-[P10c6.sas](https://github.com/choojun/sas/blob/main/P10c6.sas) How to use PROC SGSCATTER to create multiple independent scatter charts and spline curves
+[P10c6.sas](https://github.com/choojun/sas/blob/main/P10c6.sas) How to use PROC SGSCATTER to create multiple independent scatter plots and spline curves
 
-[P10c7.sas](https://github.com/choojun/sas/blob/main/P10c7.sas) How to use PROC SGSCATTER to create comparative panel with scatter charts
+[P10c7.sas](https://github.com/choojun/sas/blob/main/P10c7.sas) How to use PROC SGSCATTER to create comparative panel with scatter plots
 
-[P10c8.sas](https://github.com/choojun/sas/blob/main/P10c8.sas) How to use PROC SGSCATTER to create comparative panel with regression fit and confidence ellipse in scatter charts
+[P10c8.sas](https://github.com/choojun/sas/blob/main/P10c8.sas) How to use PROC SGSCATTER to create comparative panel with regression fit and confidence ellipse in scatter plots
+
+[P10c9.sas](https://github.com/choojun/sas/blob/main/P10c9.sas) How to use PROC SGPANEL to create comparative panel with regression Curves in scatter plots
 
 [P10d1.sas](https://github.com/choojun/sas/blob/main/P10d1.sas) How to use PROC CHART to create histogram with VBOX-HBOX 
 
@@ -460,9 +462,13 @@ Note that the non-survey procedures, e.g. PROC FREQ, PROC REG, PROC MEANS and et
 
 [P10d4.sas](https://github.com/choojun/sas/blob/main/P10d4.sas) How to use PROC CAPABILITY to create histogram
 
+[P10d5.sas](https://github.com/choojun/sas/blob/main/P10d5.sas) How to use PROC SGPANEL with to create histogram and density plots
+
 [P10e1.sas](https://github.com/choojun/sas/blob/main/P10e1.sas) How to use PROC SGPLOT to create bar chart
 
 [P10e2.sas](https://github.com/choojun/sas/blob/main/P10e2.sas) How to use PROC SGPLOT to create bar-line chart
+
+[P10e3.sas](https://github.com/choojun/sas/blob/main/P10e3.sas) How to use PROC SGPANEL to create comparative panel with bar chart
 
 [P10f1.sas](https://github.com/choojun/sas/blob/main/P10f1.sas) How to use PROC CAPABILITY with Q-Q plot to identify data distribution
 
