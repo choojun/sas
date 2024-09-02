@@ -28,7 +28,7 @@ We are using SAS programming to facilitate practical learning activities and ach
 [P1f.sas](https://github.com/choojun/sas/blob/main/P1f.sas) How to manipulate with special character
 
 
-### Practical 2
+### Practical 2: Can my SAS program access an external dataset?
 
 [P2a.sas](https://github.com/choojun/sas/blob/main/P2a.sas) How to use PROC DATASETS to DELETE a temporary dataset
 
