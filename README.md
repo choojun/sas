@@ -474,16 +474,16 @@ Data storytelling is the ability to effectively communicate insights from a data
 
 There are three key components to data storytelling:
 
-  * **Data**: Thorough analysis of accurate, complete data serves as the foundation of data story. Analysing data using descriptive, diagnostic, predictive, and prescriptive analysis can enable your reader to understand its full picture.
+  * **Data**: Thorough analysis of accurate, complete data serves as the foundation of data story (find the story within the data). Analysing data using descriptive, diagnostic, predictive, and prescriptive analysis can enable your reader to understand its full picture.
 
-  * **Narrative**: A verbal or written narrative, also called a storyline, is used to communicate insights gleaned from data, the context surrounding it, and research actions.
+  * **Narrative**: A verbal or written narrative, also called a storyline (clear and concise), is used to communicate insights gleaned from data, the context surrounding it, and research actions.
 
-  * **Visualisations**: Visual representations of your data and narrative can be useful for communicating its story clearly and memorably. These can be tables, charts, graphs, diagrams, pictures, or videos.
+  * **Visualisations**: Visual representations of your data and narrative can be useful for communicating its story clearly and memorably. These can be tables, charts, graphs, diagrams, pictures, or videos (with most effective data visualisations).
 
 
 How to craft a compelling data narrative using the four key story elements:
 
-  * **Characters**: The stakeholders and players, e.g. include customers between the ages of 14 and 23, environmentally conscious consumers, and your internal team in an organisation. This doesn’t need to be part of your research and presentation, but you should define these stakeholders beforehand.
+  * **Characters**: The stakeholders and players, e.g. include customers between the ages of 14 and 23, environmentally conscious consumers, and your internal team in an organisation. This doesn’t need to be part of your research and presentation, but you should define these stakeholders (conveyed to and what their backgrounds are) beforehand.
 
   * **Setting**: Set the scene by explaining, e.g. there’s been a recent drop in sales driven by customers of all genders ages 14 to 23. Use a data visualisation to show the decline across stakeholders and audience types, and highlight the essential inconsistency, e.g. largest drop in young users.
 
