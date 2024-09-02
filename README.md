@@ -486,6 +486,9 @@ Note that the non-survey procedures, e.g. PROC FREQ, PROC REG, PROC MEANS and et
 
 [P10g3.sas](https://github.com/choojun/sas/blob/main/P10g3.sas) How to use PROC CAPABILITY to create a [cumulative distribution](https://en.wikipedia.org/wiki/Cumulative_distribution_function) plot with reference lines
 
+[P10h1.sas](https://github.com/choojun/sas/blob/main/P10h1.sas) How to use PROC LOGISTIC to create [ROC curve](https://en.wikipedia.org/wiki/Receiver_operating_characteristic)
+
+[P10h2.sas](https://github.com/choojun/sas/blob/main/P10h2.sas) How to use PROC LOGISTIC to create [ROC curve](https://en.wikipedia.org/wiki/Receiver_operating_characteristic) with customized odds ratios, goodness-of-fit statistics, R-Square and Confidence Limits
 
 
 
