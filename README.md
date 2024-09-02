@@ -500,6 +500,10 @@ Data storytelling is the ability to effectively communicate insights from a data
 There are three key components to data storytelling:
 
   * **Data**: Thorough analysis of accurate, complete data serves as the foundation of data story (find the story within the data). Analysing data using descriptive, diagnostic, predictive, and prescriptive analysis can enable your reader to understand its full picture.
+    * Descriptive (What happend?): to answer question about events that have already occured.
+    * Diagnosic (Why did it happend?): to determine the cause of a phenomenon occured in the pass with questions that focus on the reason behind the event.
+    * Predictive (What will happen?): to estimate the outcome of an event that might occur in the future.
+    * Prescriptive (How can we make it happen?): to establish actions (should be taken) and provide reasoning on the embedded elements (for situational understanding) upon the results of predictive.
 
   * **Narrative**: A verbal or written narrative, also called a storyline (clear and concise), is used to communicate insights gleaned from data, the context surrounding it, and research actions.
 
