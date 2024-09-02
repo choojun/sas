@@ -468,7 +468,30 @@ Note that the non-survey procedures, e.g. PROC FREQ, PROC REG, PROC MEANS and et
 
 
 
-### Practical 12: Tackling Problems with Data Storytelling and SAS
+### Practical 12: Tackling Problems with Data Storytelling
+
+Data storytelling is the ability to effectively communicate insights from a dataset using narratives and visualisations. It can be used to put data insights into context for and inspire research action.
+
+There are three key components to data storytelling:
+
+  * **Data**: Thorough analysis of accurate, complete data serves as the foundation of data story. Analysing data using descriptive, diagnostic, predictive, and prescriptive analysis can enable your reader to understand its full picture.
+
+  * **Narrative**: A verbal or written narrative, also called a storyline, is used to communicate insights gleaned from data, the context surrounding it, and research actions.
+
+  * **Visualisations**: Visual representations of your data and narrative can be useful for communicating its story clearly and memorably. These can be tables, charts, graphs, diagrams, pictures, or videos.
+
+
+How to craft a compelling data narrative using the four key story elements:
+
+  * **Characters**: The stakeholders and players, e.g. include customers between the ages of 14 and 23, environmentally conscious consumers, and your internal team in an organisation. This doesn’t need to be part of your research and presentation, but you should define these stakeholders beforehand.
+
+  * **Setting**: Set the scene by explaining, e.g. there’s been a recent drop in sales driven by customers of all genders ages 14 to 23. Use a data visualisation to show the decline across stakeholders and audience types, and highlight the essential inconsistency, e.g. largest drop in young users.
+
+  * **Conflict**: Describe the root issue: e.g. viral social media post highlighted company’s negative impact on the environment and caused tens of thousands of young customers to stop using a company product. Incorporate research, such as those recent published articles in literature review - about how consumers are more environmentally conscious than ever and how sustainably-marketed products can potentially drive more revenue than their unsustainable counterparts. Remind the team of company’s current unsustainable manufacturing practices to clarify why customers stopped purchasing the product. Use visualisations to support/justify your statements and claimed reminder here, too.
+
+  * **Resolution**: Propose your solution. For example, based on this data, present a long-term goal of transitioning to sustainable manufacturing practices. Additionally, focus your marketing and public relations efforts on highlighting this shift to all relevant audiences. Use visualisations to demonstrate how the initial investment in sustainable manufacturing practices can yield positive returns by attracting customers from the expanding environmentally conscious market segment.
+
+Note that data storytelling can help turn data insights into research action. Without effective communication, insights can go unnoticed or unremembered; both hard and soft skills are crucial for leveraging data to its fullest potential.
 
 [P12a1.sas](https://github.com/choojun/sas/blob/main/P12a1.sas) How to resolve knapsack problem with genetic algorithm
 
