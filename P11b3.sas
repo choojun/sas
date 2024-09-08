@@ -3,7 +3,7 @@
 
 
 ods graphics on;
-title "Illustration of ODS Graphics";
+title "ODS Graphics";
 proc timeseries data=sashelp.workers out=_null_
 				plots=(series corr decomp)
 				crossplots=all;
