@@ -494,6 +494,22 @@ Note that the non-survey procedures, e.g. PROC FREQ, PROC REG, PROC MEANS and et
 
 ### Practical 11: Visualizing Geospatial Data and Time Series Data
 
+[P11a1.sas](https://github.com/choojun/sas/blob/main/P11a1.sas) How to use SGMAP (supported on 64-bit Windows and Linux operating systems only) with GEOCODE to create bubble plot using two variables
+
+[P11a2.sas](https://github.com/choojun/sas/blob/main/P11a2.sas) How to use SGMAP (supported on 64-bit Windows and Linux operating systems only) with GEOCODE to create bubble plot using single variables
+
+[P11a3.sas](https://github.com/choojun/sas/blob/main/P11a3.sas) How to use SGMAP (supported on 64-bit Windows and Linux operating systems only) with GEOCODE to create series plot
+
+
+[P11b1.sas](https://github.com/choojun/sas/blob/main/P11b1.sas) How to use PROC TIMESERIES to accumulate transactional data into time series data
+
+[P11b2.sas](https://github.com/choojun/sas/blob/main/P11b2.sas) How to use PROC TIMESERIES to perform seasonal analysis
+
+[P11b3.sas](https://github.com/choojun/sas/blob/main/P11b3.sas) How to use PROC TIMESERIES to produce ODS graphics
+
+[P11b4.sas](https://github.com/choojun/sas/blob/main/P11b4.sas) How to use PROC TIMESERIES to perform spectral analysis
+
+[P11b5.sas](https://github.com/choojun/sas/blob/main/P11b5.sas) How to use PROC TIMESERIES to perform singular spectrum analysis 
 
 
 ### Practical 12: Tackling Problems with Data Storytelling
