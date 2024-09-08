@@ -494,12 +494,15 @@ Note that the non-survey procedures, e.g. PROC FREQ, PROC REG, PROC MEANS and et
 
 ### Practical 11: Visualizing Geospatial Data and Time Series Data
 
+Spatial analysis is any of the formal techniques which studies entities using their topological, geometric, or geographic properties. Spatial analysis is also geospatial analysis, the technique applied to structures at the human scale, most notably in the analysis of geographic data. It may also be applied to genomics, as in transcriptomics data.
+
 [P11a1.sas](https://github.com/choojun/sas/blob/main/P11a1.sas) How to use SGMAP (supported on 64-bit Windows and Linux operating systems only) with GEOCODE to create bubble plot using two variables
 
 [P11a2.sas](https://github.com/choojun/sas/blob/main/P11a2.sas) How to use SGMAP (supported on 64-bit Windows and Linux operating systems only) with GEOCODE to create bubble plot using single variables
 
 [P11a3.sas](https://github.com/choojun/sas/blob/main/P11a3.sas) How to use SGMAP (supported on 64-bit Windows and Linux operating systems only) with GEOCODE to create series plot
 
+In mathematics, a time series is a series of data points indexed (or listed or graphed) in time order. In other words, a time series is a sequence taken at successive equally spaced points in time. Thus it is a sequence of discrete-time data. Time series analysis comprises methods for analysing time series data in order to extract meaningful statistics and other characteristics of the data. 
 
 [P11b1.sas](https://github.com/choojun/sas/blob/main/P11b1.sas) How to use PROC TIMESERIES to accumulate transactional data into time series data
 
