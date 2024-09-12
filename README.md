@@ -494,7 +494,7 @@ Note that the non-survey procedures, e.g. PROC FREQ, PROC REG, PROC MEANS and et
 
 ### Practical 11: Visualizing Geospatial Data and Time Series Data
 
-Spatial analysis is any of the formal techniques which studies entities using their topological, geometric, or geographic properties. Spatial analysis is also geospatial analysis, the technique applied to structures at the human scale, most notably in the analysis of geographic data. It may also be applied to genomics, as in transcriptomics data.
+Geospatial analysis is a formal technique that studies entities using their topological, geometric, or geographic properties. It is applied to structures at the human scale, most notably in the analysis of geographic data. It may also be applied to genomics, as in transcriptomics data.
 
 [P11a1.sas](https://github.com/choojun/sas/blob/main/P11a1.sas) How to use SGMAP (supported on 64-bit Windows and Linux operating systems only) with GEOCODE to create bubble plot using two variables
 
