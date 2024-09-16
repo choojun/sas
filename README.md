@@ -436,6 +436,8 @@ Note that the non-survey procedures, e.g. PROC FREQ, PROC REG, PROC MEANS and et
 
 [P10b2.sas](https://github.com/choojun/sas/blob/main/P10b2.sas) How to use PROC TEMPLATE and PROC SGRENDER to create pie chart
 
+  * Pie chart is useful to highlight proportion and percentages, e.g. illustrating the breakdown of expenses in a budget.
+
 [P10c1.sas](https://github.com/choojun/sas/blob/main/P10c1.sas) How to use PROC PLOT to create scatter plot
 
 [P10c2.sas](https://github.com/choojun/sas/blob/main/P10c2.sas) How to use PROC TEMPLATE and PROC SGRENDER to create discrete-based scatter plot
@@ -477,6 +479,7 @@ Note that the non-survey procedures, e.g. PROC FREQ, PROC REG, PROC MEANS and et
 [P10e4.sas](https://github.com/choojun/sas/blob/main/P10e4.sas) How to use PROC SGPANEL to create comparative panel with line charts
 
   * Bar charts can be used to visualize various types of data, such as counts, frequencies, percentages, or averages. They are particularly useful for displaying and comparing data from different categories.
+  * Line chart shows trends over time. For example, it is useful to display the growth of website traffic over a year.
 
 [P10f1.sas](https://github.com/choojun/sas/blob/main/P10f1.sas) How to use PROC CAPABILITY with [Q-Q plot](https://en.wikipedia.org/wiki/Q%E2%80%93Q_plot) to identify data distribution
 
