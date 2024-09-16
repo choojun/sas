@@ -454,6 +454,8 @@ Note that the non-survey procedures, e.g. PROC FREQ, PROC REG, PROC MEANS and et
 
 [P10c9.sas](https://github.com/choojun/sas/blob/main/P10c9.sas) How to use PROC SGPANEL to create comparative panel with regression Curves in scatter plots
 
+  * A scatterplot displays the relationship between two continuous variables. It is constructed by plotting individual data points on a graph with one variable represented on the x-axis and the other variable represented on the y-axis.
+
 [P10d1.sas](https://github.com/choojun/sas/blob/main/P10d1.sas) How to use PROC CHART to create histogram with VBOX-HBOX 
 
 [P10d2.sas](https://github.com/choojun/sas/blob/main/P10d2.sas) How to use PROC UNIVARIATE to create histogram
@@ -464,6 +466,8 @@ Note that the non-survey procedures, e.g. PROC FREQ, PROC REG, PROC MEANS and et
 
 [P10d5.sas](https://github.com/choojun/sas/blob/main/P10d5.sas) How to use PROC SGPANEL with to create histogram and density plots
 
+  * Histograms are graphical representations of the distribution of a dataset. They can reveal important characteristics of the data, such as whether it follows a normal distribution, is skewed to one side, or has multiple peaks.
+
 [P10e1.sas](https://github.com/choojun/sas/blob/main/P10e1.sas) How to use PROC SGPLOT to create bar chart
 
 [P10e2.sas](https://github.com/choojun/sas/blob/main/P10e2.sas) How to use PROC SGPLOT to create bar-line chart
@@ -471,6 +475,8 @@ Note that the non-survey procedures, e.g. PROC FREQ, PROC REG, PROC MEANS and et
 [P10e3.sas](https://github.com/choojun/sas/blob/main/P10e3.sas) How to use PROC SGPANEL to create comparative panel with bar charts
 
 [P10e4.sas](https://github.com/choojun/sas/blob/main/P10e4.sas) How to use PROC SGPANEL to create comparative panel with line charts
+
+  * Bar charts can be used to visualize various types of data, such as counts, frequencies, percentages, or averages. They are particularly useful for displaying and comparing data from different categories.
 
 [P10f1.sas](https://github.com/choojun/sas/blob/main/P10f1.sas) How to use PROC CAPABILITY with [Q-Q plot](https://en.wikipedia.org/wiki/Q%E2%80%93Q_plot) to identify data distribution
 
