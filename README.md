@@ -513,11 +513,15 @@ The list of characteristics of the trend:
 
 [P11b2.sas](https://github.com/choojun/sas/blob/main/P11b2.sas) How to use PROC TIMESERIES to perform seasonal analysis
 
-Seasonality in a time series accounts for regular, recurring patterns that manifest at fixed time intervals. These patterns are often associated with calendar time, such as daily, weekly, monthly, or yearly cycles.
+**Seasonality** in a time series accounts for regular, recurring patterns that manifest at fixed time intervals. These patterns are often associated with calendar time, such as daily, weekly, monthly, or yearly cycles. While the **residual**, also known as the error or irregular component, captures the random fluctuations or noise in the time series data that cannot be explained by the trend or seasonality. Residuals are the unexplained variability within the data, often reflecting the influence of unpredictable or external factors.
 
 The list of characteristics of the seasonality:
   * Regular Periodicity: Seasonal patterns occur at consistent time intervals, aligning with specific seasons, months, or days of the week.
   * Predictable Patterns: Seasonality can be anticipated and may exhibit similar patterns in different periods, making it valuable for forecasting.
+
+The list of characteristics of the residual:
+  * Random Variability: Residuals are typically random and uncorrelated, lacking any systematic patterns.
+  * Variations Not Accounted For: It represents the differences between observed values and the values predicted by the trend and seasonality components.
 
 [P11b3.sas](https://github.com/choojun/sas/blob/main/P11b3.sas) How to use PROC TIMESERIES to produce ODS graphics
 
