@@ -502,11 +502,22 @@ Geospatial analysis is a formal technique that studies entities using their topo
 
 [P11a3.sas](https://github.com/choojun/sas/blob/main/P11a3.sas) How to use SGMAP (supported on 64-bit Windows and Linux operating systems only) with GEOCODE to create series plot
 
-In mathematics, a time series is a series of data points indexed (or listed or graphed) in time order. In other words, a time series is a sequence taken at successive equally spaced points in time. Thus it is a sequence of discrete-time data. Time series analysis comprises methods for analysing time series data in order to extract meaningful statistics and other characteristics of the data. 
+In mathematics, a time series is a series of data points indexed (or listed or graphed) in time order. In other words, a time series is a sequence taken at successive equally spaced points in time. Thus it is a sequence of discrete-time data. Time series analysis comprises methods for analysing time series data in order to extract meaningful statistics and other characteristics of the data. For example, the trend component of a time series represents the long-term movement or direction of the data. It captures the underlying, persistent behavior of the series, which may be characterized by a gradual increase, decrease, or stability over an extended period. 
+
+The list of characteristics of the trend:
+  * Long-Term Behavior: Trends are typically observed over a substantial portion of the time series, spanning multiple time periods.
+  * Smooth and Gradual Changes: Trend components are often relatively smooth, exhibiting gradual changes over time.
+  * Ignore Short-Term Fluctuations: The trend component filters out short-term, noise-like fluctuations, allowing analysts to focus on the overarching patterns.
 
 [P11b1.sas](https://github.com/choojun/sas/blob/main/P11b1.sas) How to use PROC TIMESERIES to accumulate transactional data into time series data
 
 [P11b2.sas](https://github.com/choojun/sas/blob/main/P11b2.sas) How to use PROC TIMESERIES to perform seasonal analysis
+
+Seasonality in a time series accounts for regular, recurring patterns that manifest at fixed time intervals. These patterns are often associated with calendar time, such as daily, weekly, monthly, or yearly cycles.
+
+The list of characteristics of the seasonality:
+  * Regular Periodicity: Seasonal patterns occur at consistent time intervals, aligning with specific seasons, months, or days of the week.
+  * Predictable Patterns: Seasonality can be anticipated and may exhibit similar patterns in different periods, making it valuable for forecasting.
 
 [P11b3.sas](https://github.com/choojun/sas/blob/main/P11b3.sas) How to use PROC TIMESERIES to produce ODS graphics
 
