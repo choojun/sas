@@ -546,10 +546,6 @@ Data storytelling is the ability to effectively communicate insights from a data
 There are three key components to data storytelling:
 
   * **Data**: Thorough analysis of accurate, complete data serves as the foundation of data story (find the story within the data). Analysing data using descriptive, diagnostic, predictive, and prescriptive analysis can enable your reader to understand its full picture.
-    * Descriptive (What happend?): to answer question about events that have already occured.
-    * Diagnosic (Why did it happend?): to determine the cause of a phenomenon occured in the pass with questions that focus on the reason behind the event.
-    * Predictive (What will happen?): to estimate the outcome of an event that might occur in the future.
-    * Prescriptive (How can we make it happen?): to establish actions (should be taken) and provide reasoning on the embedded elements (for situational understanding) upon the results of predictive.
 
   * **Narrative**: A verbal or written narrative, also called a storyline (clear and concise), is used to communicate insights gleaned from data, the context surrounding it, and research actions.
 
@@ -564,7 +560,11 @@ How to craft a compelling data narrative using the four key story elements:
 
   * **Conflict**: Describe the root issue: e.g. viral social media post highlighted company’s negative impact on the environment and caused tens of thousands of young customers to stop using a company product. Incorporate research, such as those recent published articles in literature review - about how consumers are more environmentally conscious than ever and how sustainably-marketed products can potentially drive more revenue than their unsustainable counterparts. Remind the team of company’s current unsustainable manufacturing practices to clarify why customers stopped purchasing the product. Use visualisations to support/justify your statements and claimed reminder here, too.
 
-  * **Resolution**: Propose your solution. For example, based on this data, present a short and long-term goals of transitioning to sustainable manufacturing practices. Additionally, focus your marketing and public relations efforts on highlighting this shift to all relevant audiences. Use visualisations to demonstrate how the initial investment in sustainable manufacturing practices can yield positive returns by attracting customers from the expanding environmentally conscious market segment.
+  * **Resolution**: Propose your solution. For example, based on this data, outline short and long-term goals for transitioning to sustainable manufacturing practices. Additionally, concentrate your marketing and public relations efforts on emphasizing this shift to all relevant stakeholders. Utilize visualizations to demonstrate how the initial investment in sustainable manufacturing practices can result in positive returns by attracting customers from the growing environmentally conscious market segment. Ensure that your resolution is aligned with the data analysis from the following contexts. 
+    1. Descriptive (What happend?): to answer question about events that have already occured.
+    2. Diagnosic (Why did it happend?): to determine the cause of a phenomenon occured in the pass with questions that focus on the reason behind the event.
+    3. Predictive (What will happen?): to estimate the outcome of an event that might occur in the future.
+    4. Prescriptive (How can we make it happen?): to establish actions (should be taken) and provide reasoning on the embedded elements (for situational understanding) upon the results of predictive.
 
 Note that data storytelling can help turn data insights into research action. Without effective communication, insights can go unnoticed or unremembered; both hard and soft skills are crucial for leveraging data to its fullest potential.
 
