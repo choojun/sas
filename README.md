@@ -572,7 +572,7 @@ Note that data storytelling can help turn data insights into research action. Wi
 
 Genetic algorithms are a computational technique, which is a metaheuristic inspired by the process of natural selection that belongs to the larger class of [evolutionary algorithms](https://en.wikipedia.org/wiki/Evolutionary_algorithm). They use biological concepts like genes, chromosomes, and fitness to create and improve solutions to optimisation problems.
 
-The pseudocode of genetic algorithm is:
+The [pseudocode](https://en.wikipedia.org/wiki/Pseudocode) of genetic algorithm is:
 
 1. Initialization: Some possible solutions are created; very often these will have random values
 2. Evaluation: A fitness function scores each solution; the score will be a number that tells how well this solution solves the problem.
