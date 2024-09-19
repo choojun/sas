@@ -572,6 +572,22 @@ Note that data storytelling can help turn data insights into research action. Wi
 
 Genetic algorithms are a computational technique, which is a metaheuristic inspired by the process of natural selection that belongs to the larger class of [evolutionary algorithms](https://en.wikipedia.org/wiki/Evolutionary_algorithm). They use biological concepts like genes, chromosomes, and fitness to create and improve solutions to optimisation problems.
 
+The pseudocode of genetic algorithm is:
+
+1. Initialization: Some possible solutions are created; very often these will have random values
+2. Evaluation: A fitness function scores each solution; the score will be a number that tells how well this solution solves the problem.
+3. The following steps are run until the requirement to stop is met:
+   
+   3.1. Selection: Pick the solutions/individuals for the next iteration
+
+   3.2. Recombination: Combine the solutions picked
+
+   3.3. Mutation: Randomly change the newly created solutions
+
+   3.4. Evaluation: Apply the fitness function, see step 2.
+
+   3.5. If the requirement to stop is not met, re-start with the selection step.
+
 [P12b1.sas](https://github.com/choojun/sas/blob/main/P12b1.sas) How to perform [bilinear interpolation](https://en.wikipedia.org/wiki/Bilinear_interpolation)
 
 [P12b2.sas](https://github.com/choojun/sas/blob/main/P12b2.sas) How to perform [bilinear interpolation](https://en.wikipedia.org/wiki/Bilinear_interpolation) on unit square
