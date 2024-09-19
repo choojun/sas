@@ -568,7 +568,11 @@ How to craft a compelling data narrative using the four key story elements:
 
 Note that data storytelling can help turn data insights into research action. Without effective communication, insights can go unnoticed or unremembered; both hard and soft skills are crucial for leveraging data to its fullest potential.
 
-[P12a1.sas](https://github.com/choojun/sas/blob/main/P12a1.sas) How to resolve [knapsack problem](https://en.wikipedia.org/wiki/Knapsack_problem) with [genetic algorithm](https://en.wikipedia.org/wiki/Genetic_algorithm)
+[P12a1.sas](https://github.com/choojun/sas/blob/main/P12a1.sas) How to use PROC IML to resolve [knapsack problem](https://en.wikipedia.org/wiki/Knapsack_problem) with [genetic algorithm](https://en.wikipedia.org/wiki/Genetic_algorithm)
+
+[P12a2.sas](https://github.com/choojun/sas/blob/main/P12a2.sas) How to use PROC IML a binary chromosome to perform mutation operation.
+
+[P12a3.sas](https://github.com/choojun/sas/blob/main/P12a3.sas) How to use PROC IML a binary chromosome to perform mutation and crossover operations.
 
 Genetic algorithms are a computational technique, which is a metaheuristic inspired by the process of natural selection that belongs to the larger class of [evolutionary algorithms](https://en.wikipedia.org/wiki/Evolutionary_algorithm). They use biological concepts like genes, chromosomes, and fitness to create and improve solutions to optimisation problems.
 
@@ -587,6 +591,8 @@ The [pseudocode](https://en.wikipedia.org/wiki/Pseudocode) of genetic algorithm 
    3.4. Evaluation: Apply the fitness function, see step 2.
 
    3.5. If the requirement to stop is not met, re-start with the selection step.
+
+[P12a4.sas](https://github.com/choojun/sas/blob/main/P12a4.sas) How to use PROC IML to resolve penalised knapsack problem
 
 [P12b1.sas](https://github.com/choojun/sas/blob/main/P12b1.sas) How to perform [bilinear interpolation](https://en.wikipedia.org/wiki/Bilinear_interpolation)
 
