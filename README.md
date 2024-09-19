@@ -574,7 +574,7 @@ Note that data storytelling can help turn data insights into research action. Wi
 
 [P12a3.sas](https://github.com/choojun/sas/blob/main/P12a3.sas) How to use PROC IML a binary chromosome to perform mutation and crossover operations.
 
-Genetic algorithms are a computational technique, which is a metaheuristic inspired by the process of natural selection that belongs to the larger class of [evolutionary algorithms](https://en.wikipedia.org/wiki/Evolutionary_algorithm). They use biological concepts like genes, chromosomes, and fitness to create and improve solutions to optimisation problems.
+Genetic algorithms are a computational technique, which is a metaheuristic inspired by the process of natural selection that belongs to the larger class of [evolutionary algorithms](https://en.wikipedia.org/wiki/Evolutionary_algorithm). They use biological concepts like genes, chromosomes, and fitness to create and improve solutions to [optimisation problems](https://en.wikipedia.org/wiki/Optimization_problem).
 
 The [pseudocode](https://en.wikipedia.org/wiki/Pseudocode) of genetic algorithm is:
 
