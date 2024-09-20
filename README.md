@@ -615,13 +615,13 @@ The [traveling salesman problem (TSP)](https://en.wikipedia.org/wiki/Travelling_
 #### B. Interpolation Challenge
 In numerical analysis, [interpolation](https://en.wikipedia.org/wiki/Interpolation) is a technique used to predict or approximate the value of a function at a point between known data points. This is often necessary in engineering and science when we have limited data and need to estimate values for intermediate points.
 
-[P12b1.sas](https://github.com/choojun/sas/blob/main/P12b1.sas) How to perform [bilinear interpolation](https://en.wikipedia.org/wiki/Bilinear_interpolation)
+[P12c1.sas](https://github.com/choojun/sas/blob/main/P12c1.sas) How to perform [bilinear interpolation](https://en.wikipedia.org/wiki/Bilinear_interpolation)
 
-[P12b2.sas](https://github.com/choojun/sas/blob/main/P12b2.sas) How to perform [bilinear interpolation](https://en.wikipedia.org/wiki/Bilinear_interpolation) on unit square
+[P12c2.sas](https://github.com/choojun/sas/blob/main/P12c2.sas) How to perform [bilinear interpolation](https://en.wikipedia.org/wiki/Bilinear_interpolation) on unit square
 
-[P12b3.sas](https://github.com/choojun/sas/blob/main/P12b3.sas) How to perform [cubic interpolation](https://en.wikipedia.org/wiki/Cubic_Hermite_spline)
+[P12c3.sas](https://github.com/choojun/sas/blob/main/P12c3.sas) How to perform [cubic interpolation](https://en.wikipedia.org/wiki/Cubic_Hermite_spline)
 
-[P12b4.sas](https://github.com/choojun/sas/blob/main/P12b4.sas) How to perform [linear interpolation](https://en.wikipedia.org/wiki/Linear_interpolation)
+[P12c4.sas](https://github.com/choojun/sas/blob/main/P12c4.sas) How to perform [linear interpolation](https://en.wikipedia.org/wiki/Linear_interpolation)
 
 
 
