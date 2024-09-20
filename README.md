@@ -600,6 +600,16 @@ We are using a GA to solve the knapsack problem, which involves maximizing the v
 
 [P12a5.sas](https://github.com/choojun/sas/blob/main/P12a5.sas) How to use PROC IML to resolve penalised knapsack problem with GA
 
+#### B. Travelling Salesman Problem (TSP) and Real-Valued Objective Optimization with Constraints Problem
+The [traveling salesman problem (TSP)](https://en.wikipedia.org/wiki/Travelling_salesman_problem) involves finding the shortest possible route that visits each city in a given list exactly once and returns to the starting city. Given the distances between each pair of cities, this TSP is NP-hard and is a significant challenge in combinatorial optimization, with applications in theoretical computer science and operations research.
+
+[P12b1.sas](https://github.com/choojun/sas/blob/main/P12b1.sas) How to use IML to resolve TSP with GA
+
+[P12b2.sas](https://github.com/choojun/sas/blob/main/P12b2.sas) How to use IML to resolve TSP with customised GA operators
+
+[P12b3.sas](https://github.com/choojun/sas/blob/main/P12b3.sas) How to use IML to resolve TSP with customised GA objective function for local optimisation
+
+[P12b4.sas](https://github.com/choojun/sas/blob/main/P12b4.sas) How to use IML to resolve real-valued objective optimization (minimization) with constraints using GA
 
 
 #### B. Interpolation Challenge
