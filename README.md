@@ -570,9 +570,11 @@ Note that data storytelling can help turn data insights into research action. Wi
 
 
 #### A. Knapsack problem
-Named after the classic packing problem, the knapsack problem arises when limited resources must be allocated to maximize value. This often occurs in decision-making where choices are made from a set of indivisible options under constraints like budget or time.
+Named after the classic packing problem, the [knapsack problem](https://en.wikipedia.org/wiki/Knapsack_problem) arises when limited resources must be allocated to maximize value. This often occurs in decision-making where choices are made from a set of indivisible options under constraints like budget or time.
 
-Genetic algorithms (GAs) are a computational technique, which is a metaheuristic inspired by the process of natural selection that belongs to the larger class of [evolutionary algorithms](https://en.wikipedia.org/wiki/Evolutionary_algorithm). They use biological concepts like genes, chromosomes, and fitness to create and improve solutions to [optimisation problems](https://en.wikipedia.org/wiki/Optimization_problem). The [pseudocode](https://en.wikipedia.org/wiki/Pseudocode) of GA is:
+[P12a1.sas](https://github.com/choojun/sas/blob/main/P12a1.sas) How to use PROC IML with MILPSOLVE to tackle a binary-based knapsack problem.
+
+[Genetic algorithms (GAs)](https://en.wikipedia.org/wiki/Genetic_algorithm) are a computational technique, which is a metaheuristic inspired by the process of natural selection that belongs to the larger class of [evolutionary algorithms](https://en.wikipedia.org/wiki/Evolutionary_algorithm). They use biological concepts like genes, chromosomes, and fitness to create and improve solutions to [optimisation problems](https://en.wikipedia.org/wiki/Optimization_problem). The [pseudocode](https://en.wikipedia.org/wiki/Pseudocode) of GA is:
 
 1. Initialization: Some possible solutions are created; very often these will have random values
 2. Evaluation: A fitness function scores each solution; the score will be a number that tells how well this solution solves the problem.
@@ -590,13 +592,13 @@ Genetic algorithms (GAs) are a computational technique, which is a metaheuristic
 
 We are using a GA to solve the knapsack problem, which involves maximizing the value of selected items while adhering to given constraints such as weight limits, budget allocations, and time intervals.
 
-[P12a1.sas](https://github.com/choojun/sas/blob/main/P12a1.sas) How to use PROC IML to resolve [knapsack problem](https://en.wikipedia.org/wiki/Knapsack_problem) with [genetic algorithm](https://en.wikipedia.org/wiki/Genetic_algorithm)
+[P12a2.sas](https://github.com/choojun/sas/blob/main/P12a2.sas) How to use PROC IML to resolve knapsack problem with GA
 
-[P12a2.sas](https://github.com/choojun/sas/blob/main/P12a2.sas) How to use PROC IML a binary chromosome to perform mutation operation.
+[P12a3.sas](https://github.com/choojun/sas/blob/main/P12a3.sas) How to use PROC IML a binary chromosome to perform mutation operation of GA.
 
-[P12a3.sas](https://github.com/choojun/sas/blob/main/P12a3.sas) How to use PROC IML a binary chromosome to perform mutation and crossover operations.
+[P12a4.sas](https://github.com/choojun/sas/blob/main/P12a4.sas) How to use PROC IML a binary chromosome to perform mutation and crossover operations of GA.
 
-[P12a4.sas](https://github.com/choojun/sas/blob/main/P12a4.sas) How to use PROC IML to resolve penalised knapsack problem
+[P12a5.sas](https://github.com/choojun/sas/blob/main/P12a5.sas) How to use PROC IML to resolve penalised knapsack problem with GA
 
 
 
