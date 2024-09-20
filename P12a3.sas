@@ -21,29 +21,5 @@ run Mutate(b);
 print (bOrig`)[L="Original b" c=(1:N)]
       (b`)[L="Randomly Mutated b" c=(1:N)];
 
-
-
-
-start uniform_cross(child1, child2, parent1, parent2) global(ProbCross);
-   b = j(nrow(parent1), 1);
-   call randgen(b, "Bernoulli", ProbCross); /* 0/1 vector */
-   idx = loc(b=1);                    /* locations to cross */
- 
-   child1 = parent1;                  /* initialize children */
-   child2 = parent2;
-   if ncol(idx)>0 then do;            /* exchange values */
-      child1[idx] = parent2[idx];     /* child1 gets some from parent2 */
-      child2[idx] = parent1[idx];     /* child2 gets some from parent1 */
-   end;
-finish;
-
-ProbCross = 0.3;                               /* crossover 25% of sites */
-Items = 5:12;   p1 = j(N,1,0);  p1[Items] = 1; /* choose items 5-12 */
-Items = 10:15;  p2 = j(N,1,0);  p2[Items] = 1; /* choose items 10-15 */
-run uniform_cross(c1, c2, p1, p2);
-print (p1`)[L="Parent1" c=(1:N)], (p2`)[L="Parent2" c=(1:N)],
-      (c1`)[L="Child1" c=(1:N)], (c2`)[L="Child2" c=(1:N)];
-
-
 /* Adapted from: https://blogs.sas.com/content/iml/2021/10/18/crossover-mutation.html
 */
