@@ -41,7 +41,7 @@ We are using SAS programming to facilitate practical learning activities and ach
 [P2e.sas](https://github.com/choojun/sas/blob/main/P2e.sas) How to PROC PRINT with STYLE
 
 
-### Practical 3
+### Practical 3: 
 
 [P3a.sas](https://github.com/choojun/sas/blob/main/P3a.sas) 
 
@@ -612,7 +612,7 @@ The [traveling salesman problem (TSP)](https://en.wikipedia.org/wiki/Travelling_
 [P12b4.sas](https://github.com/choojun/sas/blob/main/P12b4.sas) How to use IML to resolve real-valued objective optimization (minimization) with constraints using GA
 
 
-#### B. Interpolation Challenge
+#### C. Interpolation Challenge
 In numerical analysis, [interpolation](https://en.wikipedia.org/wiki/Interpolation) is a technique used to predict or approximate the value of a function at a point between known data points. This is often necessary in engineering and science when we have limited data and need to estimate values for intermediate points.
 
 [P12c1.sas](https://github.com/choojun/sas/blob/main/P12c1.sas) How to perform [bilinear interpolation](https://en.wikipedia.org/wiki/Bilinear_interpolation)
