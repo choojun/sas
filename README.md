@@ -41,22 +41,23 @@ We are using SAS programming to facilitate practical learning activities and ach
 [P2e.sas](https://github.com/choojun/sas/blob/main/P2e.sas) How to PROC PRINT with STYLE
 
 
-### Practical 3: 
+### Practical 3: String (variable with characters) manipulation
 
-[P3a.sas](https://github.com/choojun/sas/blob/main/P3a.sas) 
+[P3a.sas](https://github.com/choojun/sas/blob/main/P3a.sas) COUNT
 
-[P3b.sas](https://github.com/choojun/sas/blob/main/P3b.sas) 
+[P3b.sas](https://github.com/choojun/sas/blob/main/P3b.sas) SCAN and STRIP
 
-[P3c.sas](https://github.com/choojun/sas/blob/main/P3c.sas) 
+[P3c.sas](https://github.com/choojun/sas/blob/main/P3c.sas) SCAN with special characters
 
-[P3d.sas](https://github.com/choojun/sas/blob/main/P3d.sas) 
+[P3d.sas](https://github.com/choojun/sas/blob/main/P3d.sas) How to use SCAN in DO-UNTIL loop
 
-[P3e.sas](https://github.com/choojun/sas/blob/main/P3e.sas) 
+[P3e.sas](https://github.com/choojun/sas/blob/main/P3e.sas) TRANSLATE, CAT, CATX, COMPRESS, COMPBL
 
-[P3f.sas](https://github.com/choojun/sas/blob/main/P3f.sas) 
+[P3f.sas](https://github.com/choojun/sas/blob/main/P3f.sas) COMPRESS and CATS
 
-[P3g.sas](https://github.com/choojun/sas/blob/main/P3g.sas) 
+[P3g.sas](https://github.com/choojun/sas/blob/main/P3g.sas) How to use SCAN in DO-UNTIL loop
 
+[P3h.sas](https://github.com/choojun/sas/blob/main/P3h.sas) SCAN
 
 ### Practical 4: Concerns about Merging Datasets and Repetitive Operations
 
