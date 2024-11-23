@@ -433,6 +433,14 @@ Note that the non-survey procedures, e.g. PROC FREQ, PROC REG, PROC MEANS and et
 
 [P10a2.sas](https://github.com/choojun/sas/blob/main/P10a2.sas) How to use PROC SGPANEL with VBOX-HBOX to create comparative panel with [boxplots](https://en.wikipedia.org/wiki/Box_plot) 
 
+  * In measuring data central tendency and data variability, boxplot utilizes a standardized way of displaying the dataset based on the five-number summary: the minimum, the maximum, the sample median, and the first and third quartiles.
+    * Minimum (Q0 or 0th percentile): the lowest data score in the data set excluding any outliers
+    * Maximum (Q4 or 100th percentile): the highest data score in the data set excluding any outliers
+    * Median (Q2 or 50th percentile): the middle value in the data set
+    * First quartile (Q1 or 25th percentile): also known as the lower quartile q_n(0.25), it is the median of the lower half of the dataset.
+    * Third quartile (Q3 or 75th percentile): also known as the upper quartile q_n(0.75), it is the median of the upper half of the dataset.
+  * Boxplots, also known as box-and-whisker plots, are useful for visualizing data distribution. Outliers, significantly different from the rest of the data, may be plotted as individual points (a.k.a. student scores) beyond the box-plot's whiskers. While whiskers typically end at observed data points, their definitions can vary. To identify outliers, a common approach involves calculating the interquartile range (IQR). A whisker is drawn from the upper quartile (Q3) to the largest data point within 1.5 times the IQR above Q3. Similarly, a whisker is drawn from the lower quartile (Q1) to the smallest data point within 1.5 times the IQR below Q1. Data points beyond these whiskers are considered outliers and are often plotted as individual points, such as dots, small circles, or stars.
+
 [P10b1.sas](https://github.com/choojun/sas/blob/main/P10b1.sas) How to use PROC CHART to create pie chart
 
 [P10b2.sas](https://github.com/choojun/sas/blob/main/P10b2.sas) How to use PROC TEMPLATE and PROC SGRENDER to create pie chart
