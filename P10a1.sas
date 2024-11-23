@@ -21,3 +21,9 @@ proc sgplot data=TotalScores;
   vbox total / category=Type;
   *hbox total / category=Type;
 run;
+
+proc sgpanel data=TotalScores;
+  panelby type;
+  vbox total;
+  *hbox Type;
+run;
