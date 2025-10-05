@@ -433,6 +433,30 @@ Note that the non-survey procedures, e.g. PROC FREQ, PROC REG, PROC MEANS and et
 
 ### Practical 10: Information Visualisation using Chart and Plot
 
+#### A. Visualizing Data: Mapping Data onto Aesthetics
+
+[P10a1.sas](https://github.com/choojun/sas/blob/main/P10.sas) How to map data variables to visual properties, and How to select the overarching design theme or style for the final output.
+
+#### B. Visualizing Distributions: 
+
+[P10d1.sas](https://github.com/choojun/sas/blob/main/P10d1.sas) How to use PROC CHART to create histogram with VBOX-HBOX 
+
+[P10d2.sas](https://github.com/choojun/sas/blob/main/P10d2.sas) How to use PROC UNIVARIATE to create histogram
+
+[P10d3.sas](https://github.com/choojun/sas/blob/main/P10d3.sas) How to use PROC UNIVARIATE and PROC FORMAT to create histogram
+
+[P10d4.sas](https://github.com/choojun/sas/blob/main/P10d4.sas) How to use PROC CAPABILITY to create histogram
+
+[P10d5.sas](https://github.com/choojun/sas/blob/main/P10d5.sas) How to use PROC SGPANEL with to create histogram and density plots
+
+  * Histograms are graphical representations of the distribution of a dataset. They can reveal important characteristics of the data, such as whether it follows a normal distribution, is skewed to one side, or has multiple peaks.
+
+#### C. Visualizing Properties: 
+
+#### B. Visualizing Associations: 
+
+
+
 [P10a1.sas](https://github.com/choojun/sas/blob/main/P10a1.sas) How to use PROC BOXPLOT, PROC SGPLOT and PROC SGPANEL with VBOX-HBOX to create [boxplot](https://en.wikipedia.org/wiki/Box_plot)
 
 [P10a2.sas](https://github.com/choojun/sas/blob/main/P10a2.sas) How to use PROC SGPANEL with VBOX-HBOX to create comparative panel with [boxplots](https://en.wikipedia.org/wiki/Box_plot) 
@@ -471,17 +495,7 @@ Note that the non-survey procedures, e.g. PROC FREQ, PROC REG, PROC MEANS and et
 
   * A scatterplot displays the relationship between two continuous variables. It is constructed by plotting individual data points on a graph with one variable represented on the x-axis and the other variable represented on the y-axis.
 
-[P10d1.sas](https://github.com/choojun/sas/blob/main/P10d1.sas) How to use PROC CHART to create histogram with VBOX-HBOX 
 
-[P10d2.sas](https://github.com/choojun/sas/blob/main/P10d2.sas) How to use PROC UNIVARIATE to create histogram
-
-[P10d3.sas](https://github.com/choojun/sas/blob/main/P10d3.sas) How to use PROC UNIVARIATE and PROC FORMAT to create histogram
-
-[P10d4.sas](https://github.com/choojun/sas/blob/main/P10d4.sas) How to use PROC CAPABILITY to create histogram
-
-[P10d5.sas](https://github.com/choojun/sas/blob/main/P10d5.sas) How to use PROC SGPANEL with to create histogram and density plots
-
-  * Histograms are graphical representations of the distribution of a dataset. They can reveal important characteristics of the data, such as whether it follows a normal distribution, is skewed to one side, or has multiple peaks.
 
 [P10e1.sas](https://github.com/choojun/sas/blob/main/P10e1.sas) How to use PROC SGPLOT to create bar chart
 
@@ -516,6 +530,8 @@ Note that the non-survey procedures, e.g. PROC FREQ, PROC REG, PROC MEANS and et
 
 ### Practical 11: Visualizing Geospatial Data and Time Series Data
 
+#### A. Visualizing Geospatial Data: 
+
 Geospatial analysis is a formal technique that studies entities using their topological, geometric, or geographic properties. It is applied to structures at the human scale, most notably in the analysis of geographic data -- a time-based data that is related to a specific location on the Earth’s surface and it can provide insights into relationships between variables and reveal patterns and trends. Geospatial analysis may also be applied to genomics, as in [transcriptomics](https://en.wikipedia.org/wiki/Transcriptomics_technologies) data.
 
 [P11a1.sas](https://github.com/choojun/sas/blob/main/P11a1.sas) How to use SGMAP (supported on 64-bit Windows and Linux operating systems only) with GEOCODE to create bubble plot using two variables
@@ -523,6 +539,8 @@ Geospatial analysis is a formal technique that studies entities using their topo
 [P11a2.sas](https://github.com/choojun/sas/blob/main/P11a2.sas) How to use SGMAP (supported on 64-bit Windows and Linux operating systems only) with GEOCODE to create bubble plot using single variables
 
 [P11a3.sas](https://github.com/choojun/sas/blob/main/P11a3.sas) How to use SGMAP (supported on 64-bit Windows and Linux operating systems only) with GEOCODE to create series plot
+
+#### B. Visualizing Time Series Data: 
 
 In mathematics, a time series is a series of data points indexed (or listed or graphed) in time order. In other words, a time series is a sequence taken at successive equally spaced points in time. Thus it is a sequence of discrete-time data. Time series analysis comprises methods for analysing time series data in order to extract meaningful statistics and other characteristics of the data. For example, the trend component of a time series represents the long-term movement or direction of the data. It captures the underlying, persistent behavior of the series, which may be characterized by a gradual increase, decrease, or stability over an extended period. 
 
