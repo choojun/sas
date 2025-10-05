@@ -435,7 +435,7 @@ Note that the non-survey procedures, e.g. PROC FREQ, PROC REG, PROC MEANS and et
 
 #### A. Visualizing Data: Mapping Data onto Aesthetics
 
-[P10a1.sas](https://github.com/choojun/sas/blob/main/P10.sas) How to map data variables to visual properties, and How to select the overarching design theme or style for the final output.
+[P10.sas](https://github.com/choojun/sas/blob/main/P10.sas) How to map data variables to visual properties, and How to select the overarching design theme or style for the final output.
 
 #### B. Visualizing Distributions: 
 
