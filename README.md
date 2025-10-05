@@ -459,6 +459,15 @@ Note that the non-survey procedures, e.g. PROC FREQ, PROC REG, PROC MEANS and et
 
 [P10g3.sas](https://github.com/choojun/sas/blob/main/P10g3.sas) How to use PROC CAPABILITY to create a [cumulative distribution](https://en.wikipedia.org/wiki/Cumulative_distribution_function) plot with reference lines
 
+[P10f1.sas](https://github.com/choojun/sas/blob/main/P10f1.sas) How to use PROC CAPABILITY with [Q-Q plot](https://en.wikipedia.org/wiki/Q%E2%80%93Q_plot) to identify data distribution
+
+[P10f2.sas](https://github.com/choojun/sas/blob/main/P10f2.sas) How to use PROC CAPABILITY with [Q-Q plot](https://en.wikipedia.org/wiki/Q%E2%80%93Q_plot) to interpret normal and to estimate non-normal data with a distribution reference line
+
+[P10f3.sas](https://github.com/choojun/sas/blob/main/P10f3.sas) How to use PROC UNIVARIATE with [P-P plot](https://en.wikipedia.org/wiki/P%E2%80%93P_plot)
+
+
+
+
 #### C. Visualizing Properties: 
 
 #### B. Visualizing Associations: 
@@ -515,12 +524,6 @@ Note that the non-survey procedures, e.g. PROC FREQ, PROC REG, PROC MEANS and et
 
   * Bar charts can be used to visualize various types of data, such as counts, frequencies, percentages, or averages. They are particularly useful for displaying and comparing data from different categories.
   * Line chart shows trends over time. For example, it is useful to display the growth of website traffic over a year.
-
-[P10f1.sas](https://github.com/choojun/sas/blob/main/P10f1.sas) How to use PROC CAPABILITY with [Q-Q plot](https://en.wikipedia.org/wiki/Q%E2%80%93Q_plot) to identify data distribution
-
-[P10f2.sas](https://github.com/choojun/sas/blob/main/P10f2.sas) How to use PROC CAPABILITY with [Q-Q plot](https://en.wikipedia.org/wiki/Q%E2%80%93Q_plot) to interpret normal and to estimate non-normal data with a distribution reference line
-
-[P10f3.sas](https://github.com/choojun/sas/blob/main/P10f3.sas) How to use PROC UNIVARIATE with [P-P plot](https://en.wikipedia.org/wiki/P%E2%80%93P_plot)
 
 
 
