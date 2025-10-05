@@ -451,6 +451,14 @@ Note that the non-survey procedures, e.g. PROC FREQ, PROC REG, PROC MEANS and et
 
   * Histograms are graphical representations of the distribution of a dataset. They can reveal important characteristics of the data, such as whether it follows a normal distribution, is skewed to one side, or has multiple peaks.
 
+[P10g1.sas](https://github.com/choojun/sas/blob/main/P10g1.sas) How to use PROC CAPABILITY to create a [cumulative distribution](https://en.wikipedia.org/wiki/Cumulative_distribution_function) plot
+
+[P10g1.sas](https://github.com/choojun/sas/blob/main/P10g1.sas) How to use PROC CAPABILITY to create a [cumulative distribution](https://en.wikipedia.org/wiki/Cumulative_distribution_function) plot
+
+[P10g2.sas](https://github.com/choojun/sas/blob/main/P10g2.sas) How to use PROC CAPABILITY to create a [cumulative distribution](https://en.wikipedia.org/wiki/Cumulative_distribution_function) plot with fitting a normal distribution
+
+[P10g3.sas](https://github.com/choojun/sas/blob/main/P10g3.sas) How to use PROC CAPABILITY to create a [cumulative distribution](https://en.wikipedia.org/wiki/Cumulative_distribution_function) plot with reference lines
+
 #### C. Visualizing Properties: 
 
 #### B. Visualizing Associations: 
@@ -514,13 +522,7 @@ Note that the non-survey procedures, e.g. PROC FREQ, PROC REG, PROC MEANS and et
 
 [P10f3.sas](https://github.com/choojun/sas/blob/main/P10f3.sas) How to use PROC UNIVARIATE with [P-P plot](https://en.wikipedia.org/wiki/P%E2%80%93P_plot)
 
-[P10g1.sas](https://github.com/choojun/sas/blob/main/P10g1.sas) How to use PROC CAPABILITY to create a [cumulative distribution](https://en.wikipedia.org/wiki/Cumulative_distribution_function) plot
 
-[P10g1.sas](https://github.com/choojun/sas/blob/main/P10g1.sas) How to use PROC CAPABILITY to create a [cumulative distribution](https://en.wikipedia.org/wiki/Cumulative_distribution_function) plot
-
-[P10g2.sas](https://github.com/choojun/sas/blob/main/P10g2.sas) How to use PROC CAPABILITY to create a [cumulative distribution](https://en.wikipedia.org/wiki/Cumulative_distribution_function) plot with fitting a normal distribution
-
-[P10g3.sas](https://github.com/choojun/sas/blob/main/P10g3.sas) How to use PROC CAPABILITY to create a [cumulative distribution](https://en.wikipedia.org/wiki/Cumulative_distribution_function) plot with reference lines
 
 [P10h1.sas](https://github.com/choojun/sas/blob/main/P10h1.sas) How to use PROC LOGISTIC to create [ROC curve](https://en.wikipedia.org/wiki/Receiver_operating_characteristic)
 
