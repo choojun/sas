@@ -470,9 +470,9 @@ Note that the non-survey procedures, e.g. PROC FREQ, PROC REG, PROC MEANS and et
 
 #### C. Visualizing Properties: 
 
-#### B. Visualizing Associations: 
+#### D. Visualizing Associations: 
 
-
+#### E. Visualizing Trends: 
 
 [P10a1.sas](https://github.com/choojun/sas/blob/main/P10a1.sas) How to use PROC BOXPLOT, PROC SGPLOT and PROC SGPANEL with VBOX-HBOX to create [boxplot](https://en.wikipedia.org/wiki/Box_plot)
 
